@@ -14,10 +14,22 @@ layout: home
 > ## Week 1
 > - Feb 12
 >   - **Introduction**
->     - [Slides](https://www.google.com/slides/about/) • [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+>     - [Slides] • [Video]
 >   - **Checkpoint 1 (Due 2/19)**
+
+
+## Week 1
+Feb 12
+: **Lecture**{: .label .gdd-blue }[Slides]
+: **Lab**{: .label .gdd-yellow }[Video]
+
+[Slides]: https://www.google.com/slides/about/
+[Video]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
  
-> ## Week ...
+## Week ...
+...
+: ...
+: ...
 
 ## Documentation from Jekyll/Just the Docs
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
