@@ -20,8 +20,8 @@ layout: home
 
 ## Week 1
 Feb 12
-: **Lecture**{: .label .gdd-blue }[Slides]
-: **Lab**{: .label .gdd-yellow }[Video]
+: **Lecture**{:}[Slides]
+: **Lab**{:}[Video]
 
 [Slides]: https://www.google.com/slides/about/
 [Video]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
