@@ -4,8 +4,22 @@ layout: home
 ---
 
 # Data 198: Introduction to Real World Data Science
-## UC Berkeley, Spring 2024
+### UC Berkeley, Spring 2024
 
+## Announcements
+> ### Week 0 Announcements
+> - Hello World!
+> - Welcome to this very barebones website!
+
+> ## Week 1
+> - Feb 12
+>   - **Introduction**
+>     - [Slides](https://www.google.com/slides/about/) • [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+>   - **Checkpoint 1 (Due 2/19)**
+ 
+> ## Week ...
+
+## Documentation from Jekyll/Just the Docs
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
