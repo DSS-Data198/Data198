@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 ---
 
 # Data 198: Introduction to Real World Data Science
@@ -30,6 +30,19 @@ Feb 26
 : **Lecture**{: .label}[Slides]
 : **Video**{: .label}[Video]
 : **Checkpoint 1 (Due ...)**
+
+{% assign weeks = content | split: '## Week' | where: 'contains', ':' %}
+
+{% for week in weeks %}
+  {% assign week_lines = week | newline_to_br | split: '<br />' %}
+  {% if week_lines.size > 1 %}
+    <div class="week-box">
+      {% for line in week_lines %}
+        {{ line | markdownify }}
+      {% endfor %}
+    </div>
+  {% endif %}
+{% endfor %}
 
 [Slides]: https://www.google.com/slides/about/
 [Video]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
