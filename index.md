@@ -7,9 +7,9 @@ layout: home
 ### UC Berkeley, Spring 2024
 
 ## Announcements
-> ### Week 0 Announcements
-> - Hello World!
-> - Welcome to this very barebones website!
+Week 0 Announcements
+: Hello World!
+: Welcome to this very barebones website!
 
 > ## Week 1
 > - Feb 12
