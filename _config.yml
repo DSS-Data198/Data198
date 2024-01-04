@@ -6,9 +6,3 @@ url: https://jegeronimo.github.io/dss-data-198
 
 aux_links:
   Template Repository: https://github.com/jegeronimo/dss-data-198
-
-# Includes CSS file into site
-sass:
-  style: compressed
-  load_paths:
-    - _sass
