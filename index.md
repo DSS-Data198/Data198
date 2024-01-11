@@ -15,78 +15,75 @@ layout: home
 ## Week 1
 Feb 12
 : **Welcome + Icebreakers**
-: **Lecture**{: .label}[Slides]
-: **Video**{: .label}[Video]
-: **Checkpoint**{: .label}**Project Checkpoint 0 (Due 2/19)**
+: **Lecture**{: .label .label-yellow }[Slides]
+: **Resources**{: .label .label-blue} Will be linked here
+: **Checkpoint**{: .label .label-green }**Project Checkpoint 0 (Due 2/19)**
 
 ## Week 2
 Feb 19
 : **Data Science Lifecycle, Using Python Libraries, Intro to Pandas (I)**
-: **Lecture**{: .label}[Slides]
+: **Resources**{: .label .label-blue} Will be linked here
 : **Video**{: .label}[Video]
 
 ## Week 3
 Feb 26
 : **Intro to Pandas (II), Data Cleaning with Pandas**
-: **Lecture**{: .label}[Slides]
-: **Video**{: .label}[Video]
-: **Checkpoint**{: .label}**Project Checkpoint 1 (Due 3/4)**
+: **Lecture**{: .label .label-yellow }[Slides]
+: **Resources**{: .label .label-blue} Will be linked here
+: **Checkpoint**{: .label .label-green }**Project Checkpoint 1 (Due 3/4)**
 
 ## Week 4
 Mar 4
 : **Data Visualization, Exploratory Data Analysis**
-: **Lecture**{: .label}[Slides]
-: **Video**{: .label}[Video]
-: **Checkpoint**{: .label}**Project Checkpoint 2 (Due 3/11)**
+: **Lecture**{: .label .label-yellow }[Slides]
+: **Resources**{: .label .label-blue} Will be linked here
+: **Checkpoint**{: .label .label-green }**Project Checkpoint 2 (Due 3/11)**
 
 ## Week 5
 Mar 11
 : **Hypothesis Testing**
-: **Lecture**{: .label}[Slides]
-: **Video**{: .label}[Video]
-: **Checkpoint**{: .label}**Project Checkpoint 3 (Due 3/18)**
+: **Lecture**{: .label .label-yellow }[Slides]
+: **Resources**{: .label .label-blue} Will be linked here
+: **Checkpoint**{: .label .label-green }**Project Checkpoint 3 (Due 3/18)**
 
 ## Week 6
 Mar 18
 : **Career Panel**
-: **Lecture**{: .label}[Slides]
-: **Video**{: .label}[Video]
-: **Reflection**{: .label}**Mid-Semester Feedback Reflection (Due 3/25)**
+: **Lecture**{: .label .label-yellow }[Slides]
+: **Resources**{: .label .label-blue} Will be linked here
+: **Reflection**{: .label .label-purple }**Mid-Semester Feedback Reflection (Due 3/25)**
 
 ## Week 7
 Mar 25
 : **No Class - Spring Break**
-: **Lecture**{: .label}[Slides]
-: **Video**{: .label}[Video]
 
 
 ## Week 8
 Apr 1
 : **Basic Machine Learning Models**
-: **Lecture**{: .label}[Slides]
-: **Video**{: .label}[Video]
-: **Checkpoint**{: .label}**Project Checkpoint 4 (Due 4/8)**
+: **Lecture**{: .label .label-yellow }[Slides]
+: **Resources**{: .label .label-blue} Will be linked here
+: **Checkpoint**{: .label .label-green }**Project Checkpoint 4 (Due 4/8)**
 
 ## Week 9
 Apr 8
 : **Model Evaluation & Cross-Validation**
-: **Lecture**{: .label}[Slides]
-: **Video**{: .label}[Video]
-: **Project**{: .label}**Final Project Submission (Due 4/15, 6:30 PM)**
+: **Lecture**{: .label .label-yellow }[Slides]
+: **Resources**{: .label .label-blue} Will be linked here
+: **Project**{: .label .label-red }**Final Project Submission (Due 4/15, 6:30 PM)**
 
 ## Week 10
 Apr 15
 : **Symposium I**
-: **Lecture**{: .label}[Slides]
-: **Video**{: .label}[Video]
+: **Lecture**{: .label .label-yellow }[Slides]
+: **Resources**{: .label .label-blue} Will be linked here
 
 ## Week 11
 Apr 22
 : **Symposium II**
-: **Lecture**{: .label}[Slides]
-: **Video**{: .label}[Video]
-: **Reflection**{: .label}**DeCal Feedback Reflection (Due 4/29)**
+: **Lecture**{: .label .label-yellow }[Slides]
+: **Resources**{: .label .label-blue} Will be linked here
+: **Reflection**{: .label .label-purple }**DeCal Feedback Reflection (Due 4/29)**
 
 [Slides]: https://www.google.com/slides/about/
-[Video]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [Syllabus]: https://docs.google.com/document/d/10mwmHvkRGPAfGXJisxUGUDXLW-FmVn9MaSl8NOmGP1I/edit?usp=sharing
