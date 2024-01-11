@@ -8,7 +8,7 @@ layout: home
 
 ## Announcements
 > ### Week 0 Announcements
-> - Check out the course in classes.berkeley.edu!: [Data 198]
+> - Check out the course in classes.berkeley.edu: [Data 198]
 > - Apply for admission to this course here: [Enrollment Request Form]
 > - Check out our *tentative* syllabus here: [Syllabus]
 
