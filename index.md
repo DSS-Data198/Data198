@@ -8,8 +8,8 @@ layout: home
 
 ## Announcements
 > ### Week 0 Announcements
-> - Hello World!
-> - Welcome to this very barebones website!
+> - Check out the course in classes.berkeley.edu!: [Data 198]
+> - Apply for admission to this course here: [Enrollment Request Form]
 > - Check out our *tentative* syllabus here: [Syllabus]
 
 ## Week 1
@@ -85,5 +85,7 @@ Apr 22
 : **Resources**{: .label .label-blue} Will be linked here
 : **Reflection**{: .label .label-purple }**DeCal Feedback Reflection (Due 4/29)**
 
-[Slides]: https://www.google.com/slides/about/
+[Data 198]: https://classes.berkeley.edu/content/2024-spring-data-198-016-grp-016
+[Enrollment Request Form]: https://forms.gle/zUr8Vp7NRTap7NM48
 [Syllabus]: https://docs.google.com/document/d/10mwmHvkRGPAfGXJisxUGUDXLW-FmVn9MaSl8NOmGP1I/edit?usp=sharing
+[Slides]: https://www.google.com/slides/about/
