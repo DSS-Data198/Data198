@@ -9,7 +9,7 @@ layout: home
 ## Announcements
 > ### Week 0 Announcements
 > - Check out the course in classes.berkeley.edu: [Data 198]
-> - Apply for admission to this course here: [Enrollment Request Form]
+> - Apply for admission to this course here: [Enrollment Request Form] **(Due 2/2)**
 > - Check out our *tentative* syllabus here: [Syllabus]
 
 ## Week 1
@@ -86,6 +86,6 @@ Apr 22
 : **Reflection**{: .label .label-purple }**DeCal Feedback Reflection (Due 4/29)**
 
 [Data 198]: https://classes.berkeley.edu/content/2024-spring-data-198-016-grp-016
-[Enrollment Request Form]: https://forms.gle/zUr8Vp7NRTap7NM48
+[Enrollment Request Form]: http://dssberkeley.com/applydecal
 [Syllabus]: https://docs.google.com/document/d/10mwmHvkRGPAfGXJisxUGUDXLW-FmVn9MaSl8NOmGP1I/edit?usp=sharing
 [Slides]: https://www.google.com/slides/about/
