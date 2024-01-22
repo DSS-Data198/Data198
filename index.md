@@ -88,4 +88,3 @@ Apr 22
 [Data 198]: https://classes.berkeley.edu/content/2024-spring-data-198-016-grp-016
 [Enrollment Request Form]: http://dssberkeley.com/applydecal
 [Syllabus]: https://docs.google.com/document/d/10mwmHvkRGPAfGXJisxUGUDXLW-FmVn9MaSl8NOmGP1I/edit?usp=sharing
-[Slides]: https://www.google.com/slides/about/
