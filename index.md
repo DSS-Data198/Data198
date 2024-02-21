@@ -14,15 +14,14 @@ layout: home
 ## Week 1
 Feb 12
 : **Welcome + Icebreakers**
-: **Lecture**{: .label .label-yellow }[Slides]
-: **Resources**{: .label .label-blue} To be linked here
-: **Checkpoint**{: .label .label-green }**Project Checkpoint 0 (Due 2/19)**
+: **Lecture**{: .label .label-yellow }[Slides 1]
+: **Checkpoint**{: .label .label-green }**[Project Checkpoint 0] (Due 2/19)**
 
 ## Week 2
 Feb 19
 : **Data Science Lifecycle, Using Python Libraries, Intro to Pandas (I)**
-: **Lecture**{: .label .label-yellow }[Slides]
-: **Resources**{: .label .label-blue} To be linked here
+: **Lecture**{: .label .label-yellow }[Slides 2]
+: **Recording**{: .label .label-blue}[Recording]
 
 ## Week 3
 Feb 26
@@ -86,3 +85,6 @@ Apr 22
 
 [Data 198]: https://classes.berkeley.edu/content/2024-spring-data-198-016-grp-016
 [Syllabus]: https://docs.google.com/document/d/10mwmHvkRGPAfGXJisxUGUDXLW-FmVn9MaSl8NOmGP1I/edit?usp=sharing
+[Slides 1]: https://docs.google.com/presentation/d/1NEwKswKvA_Q4dRIW8d_yHcbw16xVDFMM438PY3oswhw/edit?usp=sharing
+[Slides 2]: https://docs.google.com/presentation/d/1s1KtpZM7-ND4Dl--pGlIR1EWQflIwECVwZCjHWyRzCo/edit?usp=sharing
+[Project Checkpoint 0]: https://forms.gle/4XDHXxAdUvyYfUN58
