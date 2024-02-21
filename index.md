@@ -7,9 +7,10 @@ layout: home
 ### UC Berkeley, Spring 2024
 
 ## Announcements
-> ### Week 0 Announcements
-> - Check out the course in classes.berkeley.edu: [Data 198]
-> - Check out our syllabus here: [Syllabus]
+> ### Week 2 Announcements
+> - Our syllabus can be found here: [Syllabus]
+> - Fill out the Team Matching Form ASAP!: [Project Checkpoint 0]
+> - Lecture 2 Recording can be found here: [Recording]
 
 ## Week 1
 Feb 12
@@ -83,8 +84,8 @@ Apr 22
 : **Resources**{: .label .label-blue} To be linked here
 : **Reflection**{: .label .label-purple }**DeCal Feedback Reflection (Due 4/29)**
 
-[Data 198]: https://classes.berkeley.edu/content/2024-spring-data-198-016-grp-016
 [Syllabus]: https://docs.google.com/document/d/10mwmHvkRGPAfGXJisxUGUDXLW-FmVn9MaSl8NOmGP1I/edit?usp=sharing
 [Slides 1]: https://docs.google.com/presentation/d/1NEwKswKvA_Q4dRIW8d_yHcbw16xVDFMM438PY3oswhw/edit?usp=sharing
 [Slides 2]: https://docs.google.com/presentation/d/1s1KtpZM7-ND4Dl--pGlIR1EWQflIwECVwZCjHWyRzCo/edit?usp=sharing
 [Project Checkpoint 0]: https://forms.gle/4XDHXxAdUvyYfUN58
+[Recording]: https://youtu.be/dW2DkGhuw2o
