@@ -93,7 +93,7 @@ Apr 22
 [Project Checkpoint 0]: https://forms.gle/4XDHXxAdUvyYfUN58
 
 [Slides 2]: https://docs.google.com/presentation/d/1s1KtpZM7-ND4Dl--pGlIR1EWQflIwECVwZCjHWyRzCo/edit?usp=sharing
-[Pandas Demo I]
+[Pandas Demo I]: https://deepnote.com/workspace/joseph-zhai-4d2cff32-3181-4ae6-a47d-dc9f02262638/project/DSS-Acadev-Lecture-2-Duplicate-82001e9c-93b5-41ef-a966-40cb86c2e838/notebook/Notebook%201-f92f2b9db8e749958ae2ed633fcaf634
 [Recording]: https://youtu.be/dW2DkGhuw2o
 
 [Slides 3]: https://docs.google.com/presentation/d/19-akpz9ImojRjzzXEvBegeiHvkc3MiJCqU5a_bmArAM/edit?usp=sharing
