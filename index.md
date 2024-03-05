@@ -36,7 +36,7 @@ Feb 26
 ## Week 4
 Mar 4
 : **Data Visualization, Exploratory Data Analysis**
-: **Lecture**{: .label .label-yellow }[Slides 4]
+: **Lecture**{: .label .label-yellow }[Slides 4], [Wilson's Lightning Talk], [Mini Announcements 4]
 : **Demos**{: .label .label-blue} [Data Visualization Demo]
 : **Checkpoint**{: .label .label-green }**[Project Checkpoint 2] (Due 3/11)**
 
@@ -105,5 +105,7 @@ Apr 22
 [Project Checkpoint 1]: https://bcourses.berkeley.edu/courses/1534410/assignments/8728680
 
 [Slides 4]: https://docs.google.com/presentation/d/1obrS7umyP6wOridZuNJZNr7cLsIA3zGjz-8xNs0GeyA/edit?usp=sharing
+[Wilson's Lightning Talk]: https://docs.google.com/presentation/d/1uX7vSRucPcnd4zmqNlyZyspghFSmSINcmHGQZz2kK9s/edit?usp=sharing
+[Mini Announcements 4]: https://docs.google.com/presentation/d/16z4DTPUdw0EdIpa8aNCy2grI50p1a1fh2MVd09kLT_Q/edit?usp=sharing
 [Data Visualization Demo]: https://deepnote.com/workspace/mitchell-lee-7762986d-0df6-4bbb-aa45-aeaaa1633f9c/project/DSS-Sp23-Lecture-Demo-Data-Viz-EDA-Duplicate-e1110f75-03df-427e-b493-e512c51a282a/notebook/Notebook%201-6b43ab881bf146049ebd07b1a52220d6
 [Project Checkpoint 2]: https://bcourses.berkeley.edu/courses/1534410/assignments/8730630
