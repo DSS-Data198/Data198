@@ -21,9 +21,8 @@ Feb 12
 ## Week 2
 Feb 19
 : **Data Science Lifecycle, Using Python Libraries, Intro to Pandas (I)**
-: **Lecture**{: .label .label-yellow }[Slides 2]
+: **Lecture**{: .label .label-yellow }[Slides 2], [Recording]
 : **Demos**{: .label .label-blue}[Pandas Demo I]
-: **Recording**{: .label .label-blue}[Recording]
 
 ## Week 3
 Feb 26
@@ -93,8 +92,8 @@ Apr 22
 [Project Checkpoint 0]: https://forms.gle/4XDHXxAdUvyYfUN58
 
 [Slides 2]: https://docs.google.com/presentation/d/1s1KtpZM7-ND4Dl--pGlIR1EWQflIwECVwZCjHWyRzCo/edit?usp=sharing
-[Pandas Demo I]: https://deepnote.com/workspace/joseph-zhai-4d2cff32-3181-4ae6-a47d-dc9f02262638/project/DSS-Acadev-Lecture-2-Duplicate-82001e9c-93b5-41ef-a966-40cb86c2e838/notebook/Notebook%201-f92f2b9db8e749958ae2ed633fcaf634
 [Recording]: https://youtu.be/dW2DkGhuw2o
+[Pandas Demo I]: https://deepnote.com/workspace/joseph-zhai-4d2cff32-3181-4ae6-a47d-dc9f02262638/project/DSS-Acadev-Lecture-2-Duplicate-82001e9c-93b5-41ef-a966-40cb86c2e838/notebook/Notebook%201-f92f2b9db8e749958ae2ed633fcaf634
 
 [Slides 3]: https://docs.google.com/presentation/d/19-akpz9ImojRjzzXEvBegeiHvkc3MiJCqU5a_bmArAM/edit?usp=sharing
 [Pandas Demo II]: https://deepnote.com/workspace/jakex-26b2579d-a0a9-4866-9a6e-9a76f523e999/project/DSS-PANDAS-a79f8a93-a82b-41c3-9849-f96a21636870/notebook/DSS%20PANDAS-f92019557ce44aaaa190e7f7c9c9687a
