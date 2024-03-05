@@ -7,11 +7,10 @@ layout: home
 ### UC Berkeley, Spring 2024
 
 ## Announcements
-> ### Week 3 Announcements
+> ### Week 4 Announcements
 > - Our syllabus can be found here: [Syllabus]
-> - (Week 2) Lecture 2 Recording can be found here: [Recording]
 > - bCourses site can be found here: [bCourses Site]
-> - Project Checkpoint 1 is due **March 4 at 11:59 PM**: [Project Checkpoint 1]
+> - Project Checkpoint 2 is due **March 11 at 11:59 PM**: [Project Checkpoint 2]
 
 ## Week 1
 Feb 12
@@ -36,9 +35,9 @@ Feb 26
 ## Week 4
 Mar 4
 : **Data Visualization, Exploratory Data Analysis**
-: **Lecture**{: .label .label-yellow }[Slides]
-: **Resources**{: .label .label-blue} To be linked here
-: **Checkpoint**{: .label .label-green }**Project Checkpoint 2 (Due 3/11)**
+: **Lecture**{: .label .label-yellow }[Slides 4]
+: **Demos**{: .label .label-blue} [Data Visualization Demo]
+: **Checkpoint**{: .label .label-green }**[Project Checkpoint 2] (Due 3/11)**
 
 ## Week 5
 Mar 11
@@ -102,3 +101,7 @@ Apr 22
 [Data 100 Lecture Slides]: https://ds100.org/sp24/
 [Pandas API Reference]: https://pandas.pydata.org/docs/reference/index.html
 [Project Checkpoint 1]: https://bcourses.berkeley.edu/courses/1534410/assignments/8728680
+
+[Slides 4]: https://docs.google.com/presentation/d/1obrS7umyP6wOridZuNJZNr7cLsIA3zGjz-8xNs0GeyA/edit?usp=sharing
+[Data Visualization Demo]: https://deepnote.com/workspace/mitchell-lee-7762986d-0df6-4bbb-aa45-aeaaa1633f9c/project/DSS-Sp23-Lecture-Demo-Data-Viz-EDA-Duplicate-e1110f75-03df-427e-b493-e512c51a282a/notebook/Notebook%201-6b43ab881bf146049ebd07b1a52220d6
+[Project Checkpoint 2]: https://bcourses.berkeley.edu/courses/1534410/assignments/8730630
