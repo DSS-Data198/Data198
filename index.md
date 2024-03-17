@@ -7,10 +7,10 @@ layout: home
 ### UC Berkeley, Spring 2024
 
 ## Announcements
-> ### Week 4 Announcements
+> ### Week 6 Announcements
 > - Our syllabus can be found here: [Syllabus]
 > - bCourses site can be found here: [bCourses Site]
-> - Project Checkpoint 2 is due **March 11 at 11:59 PM**: [Project Checkpoint 2]
+> - Project Checkpoint 3 is due **March 25 at 11:59 PM**: [Project Checkpoint 3]
 
 ## Week 1
 Feb 12
@@ -42,16 +42,15 @@ Mar 4
 ## Week 5
 Mar 11
 : **Hypothesis Testing**
-: **Lecture**{: .label .label-yellow }[Slides]
-: **Resources**{: .label .label-blue} To be linked here
-: **Checkpoint**{: .label .label-green }**Project Checkpoint 3 (Due 3/18)**
+: **Lecture**{: .label .label-yellow }[Slides 5], [Dhruv's Lightning Talk], [Mini Announcements 5]
+: **Checkpoint**{: .label .label-green }**[Project Checkpoint 3] (Due 3/25)**
 
 ## Week 6
 Mar 18
 : **Career Panel**
 : **Lecture**{: .label .label-yellow }[Slides]
 : **Resources**{: .label .label-blue} To be linked here
-: **Reflection**{: .label .label-purple }**Mid-Semester Feedback Reflection (Due 3/25)**
+: **Reflection**{: .label .label-purple }**Mid-Semester Feedback Reflection (Due 4/1)**
 
 ## Week 7
 Mar 25
@@ -108,3 +107,8 @@ Apr 22
 [Mini Announcements 4]: https://docs.google.com/presentation/d/16z4DTPUdw0EdIpa8aNCy2grI50p1a1fh2MVd09kLT_Q/edit?usp=sharing
 [Data Visualization Demo]: https://deepnote.com/workspace/mitchell-lee-7762986d-0df6-4bbb-aa45-aeaaa1633f9c/project/DSS-Sp23-Lecture-Demo-Data-Viz-EDA-Duplicate-e1110f75-03df-427e-b493-e512c51a282a/notebook/Notebook%201-6b43ab881bf146049ebd07b1a52220d6
 [Project Checkpoint 2]: https://bcourses.berkeley.edu/courses/1534410/assignments/8730630
+
+[Slides 5]: https://docs.google.com/presentation/d/1CJONzYWbFoeIzSNrC_gSDgRxkLDkhuRXPcVHi5-C8JE/edit?usp=sharing
+[Dhruv's Lightning Talk]: https://docs.google.com/presentation/d/1l924J0UN4NKhd6gDRKKOqKBIzA7nufW6YYdc9crFwOg/edit?usp=sharing
+[Mini Announcements 5]: https://docs.google.com/presentation/d/12LPFyRdkmVW22Gj4yaiBVcbG6FUfMMoUNfMaYEVBnrc/edit?usp=sharing
+[Project Checkpoint 3]: https://bcourses.berkeley.edu/courses/1534410/assignments/8733701
