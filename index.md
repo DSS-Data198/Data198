@@ -10,7 +10,7 @@ layout: home
 > ### Week 6 Announcements
 > - Our syllabus can be found here: [Syllabus]
 > - bCourses site can be found here: [bCourses Site]
-> - Project Checkpoint 3 is due **March 25 at 11:59 PM**: [Project Checkpoint 3]
+> - Project Checkpoint 3 is due **April 1 at 11:59 PM**: [Project Checkpoint 3]
 
 ## Week 1
 Feb 12
@@ -43,14 +43,13 @@ Mar 4
 Mar 11
 : **Hypothesis Testing**
 : **Lecture**{: .label .label-yellow }[Slides 5], [Dhruv's Lightning Talk], [Mini Announcements 5]
-: **Checkpoint**{: .label .label-green }**[Project Checkpoint 3] (Due 3/25)**
+: **Checkpoint**{: .label .label-green }**[Project Checkpoint 3] (Due 4/1)**
 
 ## Week 6
 Mar 18
 : **Career Panel**
-: **Lecture**{: .label .label-yellow }[Slides]
-: **Resources**{: .label .label-blue} To be linked here
-: **Reflection**{: .label .label-purple }**Mid-Semester Feedback Reflection (Due 4/1)**
+: **Lecture**{: .label .label-yellow }[Slides 6], [Mini Announcements 6]
+: **Reflection**{: .label .label-purple }**Mid-Semester Feedback Reflection (Due 4/5)**
 
 ## Week 7
 Mar 25
@@ -112,3 +111,6 @@ Apr 22
 [Dhruv's Lightning Talk]: https://docs.google.com/presentation/d/1l924J0UN4NKhd6gDRKKOqKBIzA7nufW6YYdc9crFwOg/edit?usp=sharing
 [Mini Announcements 5]: https://docs.google.com/presentation/d/12LPFyRdkmVW22Gj4yaiBVcbG6FUfMMoUNfMaYEVBnrc/edit?usp=sharing
 [Project Checkpoint 3]: https://bcourses.berkeley.edu/courses/1534410/assignments/8733701
+
+[Slides 6]: https://docs.google.com/presentation/d/1rB-c0ChkLqgO4EESSD--XQhueuEWiYQ6vrCbbAVz7ck/edit?usp=sharing
+[Mini Announcements 6]: https://docs.google.com/presentation/d/1PnBbrMk2rcU-kafg-lz5fZUfly5pv7_tKF3jYPBG6k4/edit?usp=sharing
