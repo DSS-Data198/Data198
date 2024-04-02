@@ -7,10 +7,11 @@ layout: home
 ### UC Berkeley, Spring 2024
 
 ## Announcements
-> ### Week 6 Announcements
+> ### Week 8 Announcements
 > - Our syllabus can be found here: [Syllabus]
 > - bCourses site can be found here: [bCourses Site]
 > - Project Checkpoint 3 is due **April 1 at 11:59 PM**: [Project Checkpoint 3]
+> - Project Checkpoint 4 is due **April 10 at 11:59 PM**: To be released
 
 ## Week 1
 Feb 12
@@ -49,19 +50,18 @@ Mar 11
 Mar 18
 : **Career Panel**
 : **Lecture**{: .label .label-yellow }[Slides 6], [Mini Announcements 6]
-: **Reflection**{: .label .label-purple }**Mid-Semester Feedback Reflection (Due 4/5)**
 
 ## Week 7
 Mar 25
 : **No Class - Spring Break**
 
-
 ## Week 8
 Apr 1
 : **Basic Machine Learning Models**
-: **Lecture**{: .label .label-yellow }[Slides]
-: **Resources**{: .label .label-blue} To be linked here
-: **Checkpoint**{: .label .label-green }**Project Checkpoint 4 (Due 4/8)**
+: **Lecture**{: .label .label-yellow }[Slides 7], [Mini Announcements 8]
+: **Resources**{: .label .label-blue}[ML Models Demo]
+: **Checkpoint**{: .label .label-green }**Project Checkpoint 4 (Due 4/10)**
+: **Reflection**{: .label .label-purple }**Mid-Semester Feedback Reflection (Due 4/12)**
 
 ## Week 9
 Apr 8
@@ -114,3 +114,7 @@ Apr 22
 
 [Slides 6]: https://docs.google.com/presentation/d/1rB-c0ChkLqgO4EESSD--XQhueuEWiYQ6vrCbbAVz7ck/edit?usp=sharing
 [Mini Announcements 6]: https://docs.google.com/presentation/d/1PnBbrMk2rcU-kafg-lz5fZUfly5pv7_tKF3jYPBG6k4/edit?usp=sharing
+
+[Slides 7]: https://docs.google.com/presentation/d/17lZnFMTOM0NZ1v08M3NVKZHPjiWu_l9eGU877-R0C_g/edit?usp=sharing
+[Mini Announcements 8]:https://docs.google.com/presentation/d/1weo4p-ebz7sbBFvgTGS-jqOCnPW5_2mF0s4ER8ZRfEg/edit?usp=sharing
+[ML Models Demo]: https://deepnote.com/workspace/ryans-workspace-1ba5-0c12a51c-2c5f-47ce-a403-8e829787a597/project/Basic-Machine-Learning-Models-0eb92a08-1222-4b3c-81be-312c63bd701b/notebook/dss-ml-9dede94526244b75a0dd8710525491b0
