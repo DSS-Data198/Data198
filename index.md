@@ -7,10 +7,10 @@ layout: home
 ### UC Berkeley, Spring 2024
 
 ## Announcements
-> ### Week 8 Announcements
-> - Our syllabus can be found here: [Syllabus]
-> - bCourses site can be found here: [bCourses Site]
+> ### Week 9 Announcements
 > - Project Checkpoint 4 is due **April 12 at 11:59 PM**: [Project Checkpoint 4]
+> - Final Project Submission is due **April 15 at 11:59 PM**: To be released
+> - Mid-semester Feedback Reflection is due **April 15 at 11:59 PM**: To be released
 
 ## Week 1
 Feb 12
@@ -60,13 +60,13 @@ Apr 1
 : **Lecture**{: .label .label-yellow }[Slides 7], [Mini Announcements 8]
 : **Resources**{: .label .label-blue}[ML Models Demo]
 : **Checkpoint**{: .label .label-green }**[Project Checkpoint 4] (Due 4/12)**
-: **Reflection**{: .label .label-purple }**Mid-Semester Feedback Reflection (Due 4/12)**
+: **Reflection**{: .label .label-purple }**Mid-Semester Feedback Reflection (Due 4/15)**
 
 ## Week 9
 Apr 8
 : **Model Evaluation & Cross-Validation**
-: **Lecture**{: .label .label-yellow }[Slides]
-: **Resources**{: .label .label-blue} To be linked here
+: **Lecture**{: .label .label-yellow }[Slides 8], [Jonathan's Lightning Talk], [Mini Announcements 9]
+: **Resources**{: .label .label-blue} [Model Evaluation Demo]
 : **Project**{: .label .label-red }**Final Project Submission (Due 4/15, 6:30 PM)**
 
 ## Week 10
@@ -81,9 +81,6 @@ Apr 22
 : **Lecture**{: .label .label-yellow }[Slides]
 : **Resources**{: .label .label-blue} To be linked here
 : **Reflection**{: .label .label-purple }**DeCal Feedback Reflection (Due 4/29)**
-
-[Syllabus]: https://docs.google.com/document/d/10mwmHvkRGPAfGXJisxUGUDXLW-FmVn9MaSl8NOmGP1I/edit?usp=sharing
-[bCourses Site]: https://bcourses.berkeley.edu/courses/1534410
 
 [Slides 1]: https://docs.google.com/presentation/d/1NEwKswKvA_Q4dRIW8d_yHcbw16xVDFMM438PY3oswhw/edit?usp=sharing
 [Project Checkpoint 0]: https://forms.gle/4XDHXxAdUvyYfUN58
@@ -118,3 +115,8 @@ Apr 22
 [Mini Announcements 8]:https://docs.google.com/presentation/d/1weo4p-ebz7sbBFvgTGS-jqOCnPW5_2mF0s4ER8ZRfEg/edit?usp=sharing
 [ML Models Demo]: https://deepnote.com/workspace/ryans-workspace-1ba5-0c12a51c-2c5f-47ce-a403-8e829787a597/project/Basic-Machine-Learning-Models-0eb92a08-1222-4b3c-81be-312c63bd701b/notebook/dss-ml-9dede94526244b75a0dd8710525491b0
 [Project Checkpoint 4]: https://bcourses.berkeley.edu/courses/1534410/assignments/8736733
+
+[Slides 8]: https://docs.google.com/presentation/d/1oF2vaQIZC-NAs6-7zCamBwECqfMv0H_WdXX86zb3Ts4/edit?usp=sharing
+[Jonathan's Lightning Talk]: https://docs.google.com/presentation/d/1mcyHE5bQJY2eRIo28vxuH9JREduxVmcvHIGUEcrt7Pk/edit?usp=sharing
+[Mini Announcements 9]: https://docs.google.com/presentation/d/1Y2DIy91rhkFHNQbV2xU3BVZsF9yfydI1hc1MTK7-TNM/edit?usp=sharing
+[Model Evaluation Demo]: https://deepnote.com/workspace/bings-workspace-e665b32b-e28f-4b64-afee-8b1d651d83d4/project/DSS-SP23-Decal-Demo-Evaluation-8d2f175b-059c-4e47-b158-93a7100e3305/notebook/demo-f4f13fb3681e4ec2b7b7a8e01b887e20

@@ -5,4 +5,9 @@ theme: just-the-docs
 url: https://jegeronimo.github.io/dss-data-198
 
 aux_links:
-  Data Science Society at Berkeley: https://dssberkeley.com/
+  bCourses Site: 
+    - 'https://bcourses.berkeley.edu/courses/1534410'
+  Syllabus: 
+    - 'https://docs.google.com/document/d/10mwmHvkRGPAfGXJisxUGUDXLW-FmVn9MaSl8NOmGP1I/edit?usp=sharing'
+  Data Science Society at Berkeley: 
+    - 'https://dssberkeley.com/'
