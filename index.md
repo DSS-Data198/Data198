@@ -73,7 +73,7 @@ Apr 8
 Apr 15
 : **Symposium I**
 : **Lecture**{: .label .label-yellow }[Slides]
-: **Resources**{: .label .label-blue} [Clean Energy Clustering]
+: **Resources**{: .label .label-blue} [Clean Energy Clustering], [Music Genre Classification]
 
 ## Week 11
 Apr 22
@@ -122,3 +122,4 @@ Apr 22
 [Model Evaluation Demo]: https://deepnote.com/workspace/bings-workspace-e665b32b-e28f-4b64-afee-8b1d651d83d4/project/DSS-SP23-Decal-Demo-Evaluation-8d2f175b-059c-4e47-b158-93a7100e3305/notebook/demo-f4f13fb3681e4ec2b7b7a8e01b887e20
 
 [Clean Energy Clustering]: https://docs.google.com/presentation/d/1uDLnlq4q5jkZphLFyHSa1jH4bp1G5w3s6cFIdEgHNIs/edit?usp=sharing
+[Music Genre Classification]: https://docs.google.com/presentation/d/1o4OTI87XbV8U8Uj2q6MUH5YfXTKIbEYWeYilMcmdUTU/edit?usp=sharing
