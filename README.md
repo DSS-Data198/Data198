@@ -1,3 +1,5 @@
+To run locally, run `bundle exec jekyll serve` in terminal
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:

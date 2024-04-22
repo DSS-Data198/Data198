@@ -7,10 +7,9 @@ layout: home
 ### UC Berkeley, Spring 2024
 
 ## Announcements
-> ### Week 9 Announcements
-> - Project Checkpoint 4 is due **April 12 at 11:59 PM**: [Project Checkpoint 4]
-> - Final Project Submission is due **April 15 at 11:59 PM**: To be released
-> - Mid-semester Feedback Reflection is due **April 15 at 11:59 PM**: To be released
+> ### Week 11 Announcements
+> - Mid-Semester Feedback Reflection is due **April 22 at 11:59 PM**: [Mid-Semester Feedback Reflection]
+> - DeCal Feedback Reflection is due **April 26 at 11:59 PM**: [DeCal Feedback Reflection]
 
 ## Week 1
 Feb 12
@@ -60,7 +59,6 @@ Apr 1
 : **Lecture**{: .label .label-yellow }[Slides 7], [Mini Announcements 8]
 : **Resources**{: .label .label-blue}[ML Models Demo]
 : **Checkpoint**{: .label .label-green }**[Project Checkpoint 4] (Due 4/12)**
-: **Reflection**{: .label .label-purple }**Mid-Semester Feedback Reflection (Due 4/15)**
 
 ## Week 9
 Apr 8
@@ -72,15 +70,15 @@ Apr 8
 ## Week 10
 Apr 15
 : **Symposium I**
-: **Lecture**{: .label .label-yellow }[Slides]
+: **Lecture**{: .label .label-yellow }[Mini Announcements 10]
 : **Resources**{: .label .label-blue} [Clean Energy Clustering], [Music Genre Classification]
+: **Reflection**{: .label .label-purple }**[Mid-Semester Feedback Reflection] (Due 4/22)**
 
 ## Week 11
 Apr 22
 : **Symposium II**
-: **Lecture**{: .label .label-yellow }[Slides]
-: **Resources**{: .label .label-blue} To be linked here
-: **Reflection**{: .label .label-purple }**DeCal Feedback Reflection (Due 4/29)**
+: **Lecture**{: .label .label-yellow }[Mini Announcements 11]
+: **Reflection**{: .label .label-purple }**[DeCal Feedback Reflection] (Due 4/26)**
 
 [Slides 1]: https://docs.google.com/presentation/d/1NEwKswKvA_Q4dRIW8d_yHcbw16xVDFMM438PY3oswhw/edit?usp=sharing
 [Project Checkpoint 0]: https://forms.gle/4XDHXxAdUvyYfUN58
@@ -121,5 +119,10 @@ Apr 22
 [Mini Announcements 9]: https://docs.google.com/presentation/d/1Y2DIy91rhkFHNQbV2xU3BVZsF9yfydI1hc1MTK7-TNM/edit?usp=sharing
 [Model Evaluation Demo]: https://deepnote.com/workspace/bings-workspace-e665b32b-e28f-4b64-afee-8b1d651d83d4/project/DSS-SP23-Decal-Demo-Evaluation-8d2f175b-059c-4e47-b158-93a7100e3305/notebook/demo-f4f13fb3681e4ec2b7b7a8e01b887e20
 
+[Mini Announcements 10]: https://docs.google.com/presentation/d/11QD5sI5Ok6W3JjMH3PbeREYYLa86fSsNnDFsWFghSig/edit?usp=sharing
 [Clean Energy Clustering]: https://docs.google.com/presentation/d/1uDLnlq4q5jkZphLFyHSa1jH4bp1G5w3s6cFIdEgHNIs/edit?usp=sharing
 [Music Genre Classification]: https://docs.google.com/presentation/d/1o4OTI87XbV8U8Uj2q6MUH5YfXTKIbEYWeYilMcmdUTU/edit?usp=sharing
+
+[Mini Announcements 11]: https://docs.google.com/presentation/d/1MKHeid5RETuocLg9vL-5utZMx1Au0FDFkSJJaibrdoA/edit?usp=sharing
+[Mid-Semester Feedback Reflection]: https://forms.gle/mbkt3HP3peiHUN7b7
+[DeCal Feedback Reflection]: https://forms.gle/Nocjsy2YsHW74oJfA
