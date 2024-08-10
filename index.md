@@ -1,10 +1,13 @@
 ---
-title: Home
 layout: home
+title: Home
+nav_order: 1
+nav_exclude: false
+permalink: index.html
 ---
 
 # Data 198: Introduction to Real World Data Science
-### UC Berkeley, Spring 2024
+### UC Berkeley, Fall 2024
 
 ## Announcements
 > ### Week 11 Announcements
