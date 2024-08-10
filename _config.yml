@@ -1,8 +1,20 @@
 title: Data 198
 description: Introduction to Real World Data Science
+author: Directors of Academic Development
+email: dss.data198@gmail.com
 theme: just-the-docs
+baseurl: "/fa24" # the subpath of your site, e.g. /blog
 
-url: https://dss-data-198.github.io
+url: https://dss-data-198.github.io # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.3.3
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
 
 aux_links:
   bCourses Site: 
@@ -11,3 +23,22 @@ aux_links:
     - 'https://docs.google.com/document/d/10mwmHvkRGPAfGXJisxUGUDXLW-FmVn9MaSl8NOmGP1I/edit?usp=sharing'
   Data Science Society at Berkeley: 
     - 'https://dssberkeley.com/'
+
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  enable_coderay: false
+safe: false
