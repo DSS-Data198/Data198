@@ -5,7 +5,7 @@ email: dss.data198@gmail.com
 theme: just-the-docs
 baseurl: "/fa24" # the subpath of your site, e.g. /blog
 
-url: https://dss-data-198.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: Data198 # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 
