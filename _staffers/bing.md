@@ -1,5 +1,5 @@
 ---
-email: brandon_concepcion@berkeley.edu
+email: brandon_concepcion@berkeley.edufjifhifh3ihfi3hfifhififiufub
 name: Bing Concepcion
 #pronouns: He/Him
 photo: staff/bing.png
