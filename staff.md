@@ -19,7 +19,8 @@ Hover over some of our icons to get a different side of our personalities!
 
 -->
 
-## Course Directors
+
+<h2 style="text-align: center;">Course Directors</h2>
 
 {% assign cds = site.staffers | where: 'role', 'CD' %}
 
