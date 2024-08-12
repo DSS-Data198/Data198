@@ -8,7 +8,7 @@
 @import 'module';
 @import 'schedule'; 
 @import 'staffer';
-//@import 'acknowledger'; // Used to import all the other style sheets for convenience
+@import 'acknowledger';
 
 // CUSTOM
 
@@ -79,8 +79,8 @@
 
 
   .staffer {
-    max-width: 500px !important; //Used to specify the width of each staff on the staff page
-    font-size: 0.8em !important;
+    max-width: 600px !important; //Used to specify the width of each staff on the staff page
+    font-size: 0.9em !important;
   }
   
   .acknowledger {
@@ -146,8 +146,8 @@
   }
 
   .staffer img { //Sets the max dimensions of images in the staffer div
-    max-width: 85px !important;
-    max-height: 85px !important;
+    max-width: 100px !important;
+    max-height: 100px !important;
   }
   
   .acknowledger img {

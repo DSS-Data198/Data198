@@ -16,9 +16,6 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-
-
-
 aux_links:
   bCourses Site: 
     - 'https://bcourses.berkeley.edu/courses/1534410'
@@ -28,20 +25,60 @@ aux_links:
     - 'https://dssberkeley.com/'
 
 
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
+# Collections for website data
+collections: 
+  acknowledgers:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+
+
+defaults: #Used to define the default settings for different collections or types of content
+  - scope: #Determines where the default settings should apply.
+      path: "" #The path where the default settings should apply to, if "" means it will apply globally to the specific type across the site
+      type: staffers #The specific collection
+    values: 
+      layout: staffer #which specific layout to use
+      subpath: "/assets/images/" #what's the default subpath for this file
+  - scope:
+      path: ""
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ""
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ""
+      type: announcements
+    values:
+      layout: announcement
+  - scope:
+      path: ""
+      type: acknowledgers
+    values:
+      layout: acknowledger
+      subpath: "/assets/images/"
+
+
+#After site is built, but before it is published!
+compress_html: #compresses HTML output, making the HTML files smaller, thus increasing performance of the website
+  clippings: all #all unnecessary parts or "cippings" of HTML are removed (redundant tags and the like)
+  comments: all #removes all comments
+  endings: all #remove optional closing tags (tags which don't need closing to still work)
+  startings: [] #no specific action to compress the beginning of HTML elements
+  blanklines: false #blank lines not removed, as they are valuable in reading code easily
+  profile: false #doesn't generate a profiling report
 
 plugins:
   - jekyll-seo-tag
 
-markdown: kramdown
+markdown: kramdown #specifies to use kramdown, a Ruby gem that parses markdowns and converts it to HTML
 kramdown:
-  input: GFM
-  hard_wrap: false
-  enable_coderay: false
-safe: false
+  input: GFM #Input is GitHub Flavored Markdown, so the same one that GitHub uses
+  hard_wrap: false #Single newlines in the Markdown will not translate into <br> tagsl, so empty lines just signify new <p>
+  enable_coderay: false #Doesn't enable CodeRay, a Ruby Gem syntax highlighter
+safe: false #Allows for the use of custom plugins and non-whitelisted Ruby gems in your Jekyll project
