@@ -20,9 +20,9 @@
       {% endif %}
       <h3>
         {% if page.website %}
-        <a href="{{ page.website }}" target="_blank">{{ page.name }}</a>
+        <a class = "staffer-name" href="{{ page.website }}" target="_blank">{{ page.name }}</a>
         {% else %}
-        {{ page.name }}
+        <span class="staffer-name"></span>{{ page.name }}</span>
         {% endif %}
       </h3>
       <p>
@@ -31,7 +31,7 @@
         {% endif %}
       </p>
       {% if page.email %}
-      <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+      <p class = "staffer-email"><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
       {% endif %}
       {% if page.section %}
       <p class="staffer-meta">Quiz Section: {{ page.section | markdownify | strip_html }}</p>
