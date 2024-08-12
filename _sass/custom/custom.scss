@@ -20,7 +20,7 @@
     .main { margin-left: 264px !important;}
   
     .staffer div {
-      width: 400px !important; //Controls the width of each staffer div (on the staff page)
+      width: 200px !important; //Controls the width of each staffer div (on the staff page)
     }
   
     .acknowledger div {
@@ -38,7 +38,7 @@
     }
   
     .staffer div {
-      max-width: 400px !important;
+      max-width: 200px !important;
     }
   
     .acknowledger div {
@@ -81,7 +81,6 @@
   .staffer {
     max-width: 500px !important; //Used to specify the width of each staff on the staff page
     font-size: 0.8em !important;
-    background-color: rgb(194, 189, 189);
   }
   
   .acknowledger {
@@ -91,10 +90,6 @@
 
   .staffer-name a {
     color: #27262b !important; //Used to specify the color of each staff member's name
-  }
-
-  .staffer-email{
-    font-size: 13px;
   }
   
   .acknowledger-name a {
@@ -151,8 +146,8 @@
   }
 
   .staffer img { //Sets the max dimensions of images in the staffer div
-    max-width: 90px !important;
-    max-height: 90px !important;
+    max-width: 85px !important;
+    max-height: 85px !important;
   }
   
   .acknowledger img {

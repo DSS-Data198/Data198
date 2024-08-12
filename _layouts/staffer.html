@@ -1,17 +1,11 @@
 <style>
     .staffer h3 {
-      margin-top: 5px; /*em is relative to the font's size, so 0.3em means 30% of the original font size (usually 16px)*/
-      margin-left: 5px;
+      margin-top: .3em; /*em is relative to the font's size, so 0.3em means 30% of the original font size (usually 16px)*/
+      margin-left: .3em;
     }
   
     .staffer .team {
       margin-left: .3em;
-    }
-
-    .staffer a.staffer-email{
-      font-size: 15px;
-      margin-top: 0px;
-      margin-bottom: 0px;
     }
   </style>
   
@@ -24,7 +18,7 @@
       {% if page.team %}
       <span class="team label-{{ page.team }}">{{ page.team }}</span>
       {% endif %}
-      <h3 style="font-size: 50px;">
+      <h3 style=>
         {% if page.website %}
         <a href="{{ page.website }}" target="_blank">{{ page.name }}</a>
         {% else %}
@@ -37,7 +31,7 @@
         {% endif %}
       </p>
       {% if page.email %}
-      <p><a class = "staffer-email" href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+      <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
       {% endif %}
       {% if page.section %}
       <p class="staffer-meta">Quiz Section: {{ page.section | markdownify | strip_html }}</p>
