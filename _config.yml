@@ -1,5 +1,6 @@
 title: Data 198
 description: Introduction to Real World Data Science
+logo: /assets/site_images/dss.png
 author: Directors of Academic Development
 email: dss.data198@gmail.com
 theme: just-the-docs
@@ -15,6 +16,8 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+
+
 
 aux_links:
   bCourses Site: 
