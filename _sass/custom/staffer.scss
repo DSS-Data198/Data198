@@ -27,10 +27,13 @@
       opacity: 1;
     }
   
-    p,
+    p{
+      margin: $sp-1 !important; 
+      width: 300px; 
+    }
+
     .staffer-name {
       margin: $sp-1 !important; 
-      padding-right:30px; 
     }
   
     .staffer-pronouns {
