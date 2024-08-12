@@ -81,6 +81,7 @@
   .staffer {
     max-width: 500px !important; //Used to specify the width of each staff on the staff page
     font-size: 0.8em !important;
+    background-color: rgb(194, 189, 189);
   }
   
   .acknowledger {
@@ -98,6 +99,10 @@
   
   .acknowledger-name a {
     color: #27262b !important;
+  }
+  
+  .staffer-heading{
+    font-size: 25px;
   }
 
 /* I suppose these change the color of the font of these buttons to be white, but idk where we use them
