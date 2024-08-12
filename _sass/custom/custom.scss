@@ -90,11 +90,12 @@
 
   .staffer-name a {
     color: #27262b !important; //Used to specify the color of each staff member's name
-    font-size: 1.3em
+    font-size: 1.4em;
   }
 
   .staffer-email{
-    font-size: 0.7em
+    font-size: 1em;
+    margin: $sp-1 !important;
   }
   
   .acknowledger-name a {
