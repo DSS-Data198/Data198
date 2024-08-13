@@ -238,6 +238,11 @@ a { //anchor tags are gonna be blue
   .main-content-wrap { //still don't know what main-content-wrap does
     max-width: $content-width;
     margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-top: 8px;
+
   }
 
   .main-content { //stuff in .main-content 
