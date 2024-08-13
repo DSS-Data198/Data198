@@ -7,17 +7,34 @@
     .staffer .team {
       margin-left: .3em;
     }
+
+    .flex-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .staff-item {
+      flex: 1 1 30%; /* Adjust the basis percentage as needed */
+      margin: 10px;
+    }
+
+    /* Center the last item if the number of items is odd */
+    .flex-container .staff-item:nth-child(odd):last-child {
+      margin-left: auto;
+      margin-right: auto;
+    }
   </style>
   
   <div id="staff-page">
     <div class="main-content-wrap">
       <div class="main-content">
-        <div class="staffer">
+        <div class="staffer flex-container">
           {% if page.photo %}
           <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt=""
           {% if page.hover-photo %} data-hover="{{ site.baseurl }}{{ page.subpath }}{{ page.hover-photo }}"{% endif %} alt="">
           {% endif %}
-          <div>
+          <div class = "staff-item">
             {% if page.team %}
             <span class="team label-{{ page.team }}">{{ page.team }}</span>
             {% endif %}
