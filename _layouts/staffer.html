@@ -19,7 +19,7 @@
         {% endif %}
         <div>
           {% if page.team %}
-          <span class="team label-{{ page.team }}">{{ page.team }}</span>
+          <span class="team label-{{ page.team | replace(' ', '-') }}">{{ page.team }}</span>
           {% endif %}
           <h3>
             {% if page.website %}
