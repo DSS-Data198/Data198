@@ -7,6 +7,20 @@
   .staffer .team {
     margin-left: .3em;
   }
+
+  .linkedinicon{
+    padding-left: 7px;
+    transition: opacity 0.3s;
+  }
+
+  .linkedinicon:hover{
+    padding-left: 7px;
+    opacity: 0.7;
+  }
+
+
+
+
 </style>
 
 
@@ -25,10 +39,10 @@
           <h3>
             {% if page.website %}
             <a href="{{ page.website }}" target="_blank">{{ page.name }}</a>
-            <a href="{{ page.website }}" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a>
+            <a href="{{ page.website }}" target="_blank"><ion-icon name="logo-linkedin" class = "linkedinicon"></ion-icon></a>
             {% else %}
             {{ page.name }}
-            <ion-icon name="logo-linkedin"></ion-icon></a>
+            <ion-icon name="logo-linkedin" class = "linkedinicon"></ion-icon>
             {% endif %}
           </h3>
 
