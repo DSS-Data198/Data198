@@ -5,6 +5,6 @@ status: Active
 ---
 Mar 4
 : **Week 4: Data Visualization, Exploratory Data Analysis**
-: **Lecture**{: .label .label-yellow }[Slides 4], [Wilson's Lightning Talk], [Mini Announcements 4]
-: **Demos**{: .label .label-blue} [Data Visualization Demo]
-: **Checkpoint**{: .label .label-green }**[Project Checkpoint 2] (Due 3/11)**
+: **Lecture**{: .label .label-lecture} [Slides 4], [Wilson's Lightning Talk], [Mini Announcements 4]
+: **Demos**{: .label .label-demos} [Data Visualization Demo]
+: **Checkpoint**{: .label .label-checkpoint} **[Project Checkpoint 2] (Due 3/11)**

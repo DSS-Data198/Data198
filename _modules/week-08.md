@@ -7,6 +7,6 @@ status: Active
 
 Apr 1
 : **Basic Machine Learning Models**
-: **Lecture**{: .label .label-yellow }[Slides 7], [Mini Announcements 8]
+: **Lecture**{: .label .label-lecture} [Slides 7], [Mini Announcements 8]
 : **Resources**{: .label .label-blue}[ML Models Demo]
-: **Checkpoint**{: .label .label-green }**[Project Checkpoint 4] (Due 4/12)**
+: **Checkpoint**{: .label .label-checkpoint} **[Project Checkpoint 4] (Due 4/12)**

@@ -7,5 +7,5 @@ status: Active
 
 Apr 22
 : **Symposium II**
-: **Lecture**{: .label .label-yellow }[Mini Announcements 11]
+: **Lecture**{: .label .label-lecture} [Mini Announcements 11]
 : **Reflection**{: .label .label-purple }**[DeCal Feedback Reflection] (Due 4/26)**
