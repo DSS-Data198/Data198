@@ -35,68 +35,7 @@ permalink: index.html
   {{ module }}
 {% endfor %}
 
-## Week 2
-Feb 19
-: **Data Science Lifecycle, Using Python Libraries, Intro to Pandas (I)**
-: **Lecture**{: .label .label-yellow }[Slides 2], [Recording]
-: **Demos**{: .label .label-blue}[Pandas Demo I]
 
-## Week 3
-Feb 26
-: **Intro to Pandas (II), Data Cleaning with Pandas**
-: **Lecture**{: .label .label-yellow }[Slides 3]
-: **Demos**{: .label .label-blue} [Pandas Demo II], [Data Cleaning Demo]
-: **Resources**{: .label .label-blue} [Pandas Tutor], [Data 100 Lecture Slides], [Pandas API Reference]
-: **Checkpoint**{: .label .label-green }**[Project Checkpoint 1] (Due 3/4)**
-
-## Week 4
-Mar 4
-: **Data Visualization, Exploratory Data Analysis**
-: **Lecture**{: .label .label-yellow }[Slides 4], [Wilson's Lightning Talk], [Mini Announcements 4]
-: **Demos**{: .label .label-blue} [Data Visualization Demo]
-: **Checkpoint**{: .label .label-green }**[Project Checkpoint 2] (Due 3/11)**
-
-## Week 5
-Mar 11
-: **Hypothesis Testing**
-: **Lecture**{: .label .label-yellow }[Slides 5], [Dhruv's Lightning Talk], [Mini Announcements 5]
-: **Checkpoint**{: .label .label-green }**[Project Checkpoint 3] (Due 4/1)**
-
-## Week 6
-Mar 18
-: **Career Panel**
-: **Lecture**{: .label .label-yellow }[Slides 6], [Mini Announcements 6]
-
-## Week 7
-Mar 25
-: **No Class - Spring Break**
-
-## Week 8
-Apr 1
-: **Basic Machine Learning Models**
-: **Lecture**{: .label .label-yellow }[Slides 7], [Mini Announcements 8]
-: **Resources**{: .label .label-blue}[ML Models Demo]
-: **Checkpoint**{: .label .label-green }**[Project Checkpoint 4] (Due 4/12)**
-
-## Week 9
-Apr 8
-: **Model Evaluation & Cross-Validation**
-: **Lecture**{: .label .label-yellow }[Slides 8], [Jonathan's Lightning Talk], [Mini Announcements 9]
-: **Resources**{: .label .label-blue} [Model Evaluation Demo]
-: **Project**{: .label .label-red }**Final Project Submission (Due 4/15, 6:30 PM)**
-
-## Week 10
-Apr 15
-: **Symposium I**
-: **Lecture**{: .label .label-yellow }[Mini Announcements 10]
-: **Resources**{: .label .label-blue} [Clean Energy Clustering], [Music Genre Classification]
-: **Reflection**{: .label .label-purple }**[Mid-Semester Feedback Reflection] (Due 4/22)**
-
-## Week 11
-Apr 22
-: **Symposium II**
-: **Lecture**{: .label .label-yellow }[Mini Announcements 11]
-: **Reflection**{: .label .label-purple }**[DeCal Feedback Reflection] (Due 4/26)**
 
 [Slides 1]: https://docs.google.com/presentation/d/1NEwKswKvA_Q4dRIW8d_yHcbw16xVDFMM438PY3oswhw/edit?usp=sharing
 [Project Checkpoint 0]: https://forms.gle/4XDHXxAdUvyYfUN58
