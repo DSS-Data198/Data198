@@ -14,7 +14,7 @@
   
     .staffer-image::before {
       content: '';
-      background-image: url('{{ page.subpath }}{{ page.hover-photo }}');
+      background-image: url('{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}');
       background-size: cover;
       background-position: center;
       opacity: 0;
