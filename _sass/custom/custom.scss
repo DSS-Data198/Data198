@@ -272,9 +272,7 @@ a { //anchor tags are gonna be blue
   // Specific styles for the staff page
   #staff-page .main-content {
     max-width: 100%; // Example: make the content take the full width
-    margin: 0; // Example: remove any margin
-    padding-top: 15px;
-    padding-bottom: 15px;
+    margin: 0px;
     padding-top: 1px !important;
     padding-bottom: 1px !important;
   
@@ -284,6 +282,10 @@ a { //anchor tags are gonna be blue
     margin-right: 0 !important; // Example: remove any right margin
     padding-top: 1px !important;
     padding-bottom: 1px !important;
+    padding-left: 26px;
+    padding-right: 26px;
+    margin-top: 0; // Example: remove any margin
+    margin-bottom: 0; // Example: remove any margin
 
   }
   
