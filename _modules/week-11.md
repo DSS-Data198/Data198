@@ -5,7 +5,6 @@ status: Active
 ---
 
 
-## Week 11
 Apr 22
 : **Symposium II**
 : **Lecture**{: .label .label-yellow }[Mini Announcements 11]

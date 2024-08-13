@@ -1,5 +1,5 @@
 ---
-title: Week 1:  Welcome + Icebreakers!
+title: Week 1 - Welcome + Icebreakers!
 class: Berkeley
 status: Active
 ---
