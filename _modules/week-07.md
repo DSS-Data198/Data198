@@ -1,9 +1,9 @@
 ---
-title: Week 7:  Spring Break!
+title: Week 7
 class: Berkeley
 status: Active
 ---
 
-## Week 7
 Mar 25
+: **Spring Break!**
 : **No Class**

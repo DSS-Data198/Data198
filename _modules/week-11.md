@@ -1,5 +1,5 @@
 ---
-title: Week 11:  Welcome + Icebreakers!
+title: Week 11
 class: Berkeley
 status: Active
 ---
