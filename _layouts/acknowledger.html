@@ -1,0 +1,99 @@
+<style>
+    .acknowledger h3 {
+      margin-top: .3em;
+      margin-left: .3em;
+    }
+  
+    .acknowledger .team {
+      margin-left: .3em;
+    }
+  </style>
+  
+  <div id="ack-page">
+    <div id="ack-page" class="main-content-wrap">
+      <div id="ack-page" class="main-content">
+        <div class="acknowledger">
+            {% if page.photo %}
+            <img class="acknowledger-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt=""
+            {% if page.hover-photo %} data-hover="{{ site.baseurl }}{{ page.subpath }}{{ page.hover-photo }}"{% endif %} alt="">
+            {% endif %}
+            
+            <div>
+                {% if page.team %}
+                <span class="team label-{{ page.team }}">{{ page.team }}</span>
+                {% endif %}
+                <h3>
+                    {% if page.website %}
+                    <a href="{{ page.website }}">{{ page.name }}</a>
+                    {% else %}
+                    {{ page.name }}
+                    {% endif %}
+                </h3>
+                
+                {% if page.pronouns %}
+                <p>
+                <span class="pronouns">{{ page.pronouns }}</span>
+                {% endif %}
+                </p>
+            
+                {% if page.term %}
+                <p>
+                <span class="term">{{ page.term }}</span>
+                {% endif %}
+                </p>
+
+                {% if page.email %}
+                <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+                {% endif %}
+
+                {% if page.section %}
+                <p class="acknowledger-meta">Quiz Section: {{ page.section | markdownify | strip_html }}</p>
+                {% endif %}
+
+                {% if page.office-hours %}
+                <p class="acknowledger-meta">Office Hours: {{ page.office-hours }}</p>
+                {% endif %}
+
+                {% if page.office-hours-front %}
+                <p class="acknowledger-office-hours-front">
+                    <span class="office-hours-label">Office Hours:</span> {{ page.office-hours-front }}
+                </p>
+                {% endif %}
+
+                {% if page.tutoring-section %}
+                <p class="acknowledger-meta">Tutoring Section: {{ page.tutoring-section}}</p>
+                {% endif %}
+
+                {% if page.bio %}
+                <p class="acknowledger-bio">{{ page.bio | markdownify }}</p>
+                {% endif %}
+
+                {{ content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const images = document.querySelectorAll('.acknowledger-image');
+    
+      images.forEach(img => {
+        const hoverImage = img.getAttribute('data-hover');
+        if (hoverImage) {
+          const originalImage = img.getAttribute('src');
+    
+          img.addEventListener('mouseover', function() {
+            console.log('Hovering over image, changing src to:', hoverImage);
+            img.setAttribute('src', hoverImage);
+          });
+    
+          img.addEventListener('mouseout', function() {
+            console.log('Mouse out, changing src back to:', originalImage);
+            img.setAttribute('src', originalImage);
+          });
+        }
+      });
+    });  
+  </script>
