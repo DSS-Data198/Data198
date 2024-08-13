@@ -74,7 +74,7 @@
   .main-content-wrap { //Used for minimal?
     max-width: 1500px !important;
     margin-left: 15px !important;
-    margin-right: 15px !important
+    margin-right: 15px !important;
   }
 
 
@@ -275,13 +275,15 @@ a { //anchor tags are gonna be blue
     margin: 0; // Example: remove any margin
     padding-top: 15px;
     padding-bottom: 15px;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
   
   #staff-page .main-content-wrap {
     max-width: 100% !important; // Example: make the content wrap take the full width
     margin-left: 0 !important; // Example: remove any left margin
     margin-right: 0 !important; // Example: remove any right margin
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
 
   }
   
