@@ -9,6 +9,7 @@
   }
 </style>
 
+
 <div id="staff-page">
   <div id="staff-page" class="main-content-wrap">
     <div id="staff-page" class="main-content">
@@ -24,10 +25,13 @@
           <h3>
             {% if page.website %}
             <a href="{{ page.website }}" target="_blank">{{ page.name }}</a>
+            <a href="{{ page.website }}" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a>
             {% else %}
             {{ page.name }}
+            <ion-icon name="logo-linkedin"></ion-icon></a>
             {% endif %}
           </h3>
+
           {% if page.pronouns %}
           <p>
             <span class="pronouns">{{ page.pronouns }}</span>
@@ -91,3 +95,8 @@
     });
   });  
 </script>
+
+<!--LinkedIn Icons-->
+
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
