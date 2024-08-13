@@ -40,11 +40,11 @@
           <h3>
             {% if page.website %}
             <a href="{{ page.website }}" target="_blank">{{ page.name }}</a>
+            {% elsif page.name %}
+            {{ page.name }}
             {% endif %}
             {% if page.linkedin %}
             <a href="{{ page.linkedin }}" target="_blank"><ion-icon name="logo-linkedin" class = "linkedinicon"></ion-icon></a>
-            {% else %}
-            {{ page.name }}
             {% endif %}
           </h3>
 
