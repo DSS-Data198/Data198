@@ -4,6 +4,9 @@ logo: assets/site_images/dsslogo.png
 author: Directors of Academic Development
 email: dss.data198@gmail.com
 theme: just-the-docs
+just_the_docs:
+  favicon:
+    path: assets/site_images/favicon.png
 #baseurl: # the subpath of your site, e.g. /blog
 
 #url: https://dss-data-198.github.io # the base hostname & protocol for your site, e.g. http://example.com
