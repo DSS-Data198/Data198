@@ -24,7 +24,7 @@ Hover over some of our icons to get a different side of our personalities!
 
 {% assign cds = site.staffers | where: 'role', 'CD' %}
 
-<div id= class="role flex">
+<div class="role flex">
 {% for staffer in cds %}
 {{ staffer }}
 {% endfor %}
