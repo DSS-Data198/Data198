@@ -24,7 +24,7 @@ Hover over some of our icons to get a different side of our personalities!
 
 {% assign cds = site.staffers | where: 'role', 'CD' %}
 
-<div id= "staff-page" class="role flex">
+<div id= class="role flex">
 {% for staffer in cds %}
 {{ staffer }}
 {% endfor %}
@@ -34,7 +34,7 @@ Hover over some of our icons to get a different side of our personalities!
 
 {% assign tas = site.staffers | where: 'role', 'TA' %}
 
-<div id= "staff-page" class="role flex">
+<div class="role flex">
 {% for staffer in tas %}
 {{ staffer }}
 {% endfor %}
@@ -44,7 +44,7 @@ Hover over some of our icons to get a different side of our personalities!
 
 {% assign tutors = site.staffers | where: 'role', 'Tutor' %}
 
-<div id= "staff-page" class="role flex">
+<div class="role flex">
 {% for staffer in tutors %}
 {{ staffer }}
 {% endfor %}
