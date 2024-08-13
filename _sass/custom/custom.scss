@@ -75,8 +75,6 @@
     max-width: 1500px !important;
     margin-left: 15px !important;
     margin-right: 15px !important;
-    padding-top: 1px;
-    padding-bottom: 1px;
   }
 
 
@@ -283,6 +281,8 @@ a { //anchor tags are gonna be blue
     padding-top: 1px !important;
     padding-bottom: 1px !important;
   
+  }
+  
   #staff-page .main-content-wrap {
     max-width: 100% !important; // Example: make the content wrap take the full width
     margin-left: 0 !important; // Example: remove any left margin
@@ -299,7 +299,6 @@ a { //anchor tags are gonna be blue
     .katex {
       font-size: 1.1em;
     }
-  }
   
   [style*="--aspect-ratio"] > :first-child {
     width: 100%;
