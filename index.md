@@ -7,7 +7,7 @@ permalink: index.html
 ---
 
 
-# Data 198: Introduction to Real World Data Science
+# Data 198: Introduction to Real World Data Science <img src = "assets/site_images/dss.png">
 
 ## UC Berkeley, Fall 2024
 
