@@ -7,7 +7,7 @@ permalink: index.html
 ---
 
 
-# Data 198: Introduction to Real World Data Science <img style = "width: 30px;" src = "assets/site_images/dss.png">
+# Data 198: Introduction to Real World Data Science <img style = "width: 45px; margin-left: 15px; vertical-align: top;" src = "assets/site_images/dss.png">
 
 ## UC Berkeley, Fall 2024
 
