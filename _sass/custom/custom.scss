@@ -69,6 +69,7 @@
   .flex{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
   }
 
   .main-content-wrap { //Used for minimal?
@@ -77,11 +78,16 @@
     margin-right: 15px !important
   }
 
+  .staffh2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto; /* Optional: for additional centering */
+    }
 
   .staffer {
     max-width: 800px !important; //Used to specify the width of the whole staff page
     font-size: 0.8em !important;
-    margin-left: 50px;
   }
   
   .acknowledger {
