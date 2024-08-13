@@ -336,6 +336,10 @@ a { //anchor tags are gonna be blue
     margin-bottom: 0; // Example: remove any margin
   }
 
+  #index-page .main-content h3{
+    font-size: 1.5rem !important;
+  }
+
 // Specific styles for the acknowledgements page
   #ack-page .main-content {
     max-width: 100%; // Example: make the content take the full width
