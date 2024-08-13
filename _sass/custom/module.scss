@@ -21,11 +21,11 @@
     margin: $sp-2 (-$sp-4);
 
     &:first-child {
-      margin-top: 0;
+      margin-top: 10px;
     }
 
     &:last-child {
-      margin-bottom: 0;
+      margin-bottom: 10px;
     }
 
     @include mq(lg) {
