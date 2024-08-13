@@ -6,11 +6,10 @@ nav_exclude: false
 permalink: index.html
 ---
 
-<div id="index-page" class="main-content">
-  <h3>Data 198: Introduction to Real World Data Science</h3>
-</div>
 
-### UC Berkeley, Fall 2024
+# Data 198: Introduction to Real World Data Science
+
+## UC Berkeley, Fall 2024
 
 <!--
 ## Announcements
