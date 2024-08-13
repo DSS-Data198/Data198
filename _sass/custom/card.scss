@@ -34,16 +34,18 @@
       background-color: $grey-lt-100;
       color: $grey-dk-100;
   
-      &.label-lab {
+      &.label-lecture {
+        background-color:  $yellow-200;
+        color: white;
+        border-radius: 16%;
+      }
+      &.label-demos {
+        background-color: $blue-100;
+        color: white;
+        border-radius: 16%;
+      }
+      &.label-checkpoint {
         background-color: $green-100;
-        color: white;
-      }
-      &.label-homework {
-        background-color: $red-200;
-        color: white;
-      }
-      &.label-discussion {
-        background-color: $purple-000;
         color: white;
       }
       &.label-exam {

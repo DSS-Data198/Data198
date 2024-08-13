@@ -6,5 +6,5 @@ status: Active
 
 Feb 12
 : **Welcome + Icebreakers!**
-: **Lecture**{: .label .label-yellow }[Slides 1]
-: **Checkpoint**{: .label .label-green }**[Project Checkpoint 0] (Due 2/19)**
+: **Lecture**{: .label-lecture }[Slides 1]
+: **Checkpoint**{: .label-checkpoint }**[Project Checkpoint 0] (Due 2/19)**
