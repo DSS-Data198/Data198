@@ -14,11 +14,7 @@ permalink: index.html
 > - Mid-Semester Feedback Reflection is due **April 22 at 11:59 PM**: [Mid-Semester Feedback Reflection]
 > - DeCal Feedback Reflection is due **April 26 at 11:59 PM**: [DeCal Feedback Reflection]
 
-## Week 1
-Feb 12
-: **Welcome + Icebreakers**
-: **Lecture**{: .label .label-yellow }[Slides 1]
-: **Checkpoint**{: .label .label-green }**[Project Checkpoint 0] (Due 2/19)**
+
 
 ## Week 2
 Feb 19
