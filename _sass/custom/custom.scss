@@ -274,6 +274,13 @@ a { //anchor tags are gonna be blue
         margin-top: 1em;
       }
     }
+
+    // Specific styles for the staff page
+    #staff-page .main-content {
+      max-width: 100%; // Example: make the content take the full width
+      margin: 0; // Example: remove any margin
+      padding: 20px; // Example: add some padding
+}
   
     .katex {
       font-size: 1.1em;
