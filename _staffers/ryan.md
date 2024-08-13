@@ -5,6 +5,7 @@ name: Ryan Stevenson
 photo: staff/ryan.png
 bio: Stevie
 role: CD
+team: Course Director
 #office-hours: Mon 9-10AM, Wed 9-10AM, Thu 12-1PM
 #hover-photo: hovers/bing-hover.png
 ---

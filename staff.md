@@ -2,7 +2,7 @@
 layout: page
 title: Staff
 description: Fall 2024 Academic Development
-#nav_order: 3
+nav_order: 2
 ---
 
 # Staff
@@ -20,7 +20,7 @@ Hover over some of our icons to get a different side of our personalities!
 -->
 
 
-<h2 style="text-align: center;">Course Directors</h2>
+<h2 style="text-align: center;">Leads</h2>
 
 {% assign cds = site.staffers | where: 'role', 'CD' %}
 
