@@ -20,12 +20,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  "Optional Textbook":
+    - url: optional_textbook.pdf
   bCourses Site: 
     - 'https://bcourses.berkeley.edu/courses/1534410'
   Syllabus: 
-    - 'https://docs.google.com/document/d/10mwmHvkRGPAfGXJisxUGUDXLW-FmVn9MaSl8NOmGP1I/edit?usp=sharing'
-  Data Science Society at Berkeley: 
-    - 'https://dssberkeley.com/'
+    - 'https://docs.google.com/document/d/1Dz6GFDBfU3S_VzzhqRJwBhNhM4sqR1jQ02erfx0rhFQ/edit?usp=sharing'
 
 
 # Collections for website data
