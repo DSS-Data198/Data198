@@ -6,4 +6,5 @@ bio: Helloo, I'm Siddharth! I'm a senior majoring in Computer Science and Data S
 role: Lead
 team: DSS President
 hover-photo: staff_hovers/sid_hover.jpeg
+linkedin: https://www.linkedin.com/in/siddharth-ramshankar1/
 ---
