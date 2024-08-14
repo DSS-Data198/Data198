@@ -146,14 +146,14 @@ Due to the fast pace of the summer offering, **we are unable to offer assignment
 
 -->
 
-# Supervision & Responsibility of Instructor of Record
+## Supervision & Responsibility of Instructor of Record
 
-1) The Instructor of Record for DATA 198 - Introduction to Real-World Data Science will be Prof. Zachary Pardos
-2) The lecturers will share instructional materials with the Instructor of Record, via email/Google Drive, at least two weeks before the instruction, and expect to get feedback, via email/comments on materials within a week. 
+* The Instructor of Record for DATA 198 - Introduction to Real-World Data Science will be Prof. Zachary Pardos
+* The lecturers will share instructional materials with the Instructor of Record, via email/Google Drive, at least two weeks before the instruction, and expect to get feedback, via email/comments on materials within a week. 
     * The lecturers will then have ~5 days to revise and rehearse for new materials.
-3) The lecturers will schedule meetings with the Instructor of Record, at least a week before instruction begins, to seek advice and/or explanation on confusing/uncertain concepts.
-4) Our Instructor of Record will also help with creating bCourses site, if necessary. If eventually the lecturers decide to use Git/GitHub purely, Instructor of Record will be invited to join the repository. 
-5) The Instructor of Record also holds the responsibility for supervising the awarding of all final grades and for reporting the grades to the Office of the Registrar. The lecturers choose to use the same end-of-semester course evaluation form as that being used by the Instructor of Record for his other course(s). Our Instructor of Record is welcomed to do in-class observations, and to give any help/suggestion during break. Our Instructor of Record agrees to help with any other unforeseeable issues if needed, unless he sees his involvements being inappropriate. 
+* The lecturers will schedule meetings with the Instructor of Record, at least a week before instruction begins, to seek advice and/or explanation on confusing/uncertain concepts.
+* Our Instructor of Record will also help with creating bCourses site, if necessary. If eventually the lecturers decide to use Git/GitHub purely, Instructor of Record will be invited to join the repository. 
+* The Instructor of Record also holds the responsibility for supervising the awarding of all final grades and for reporting the grades to the Office of the Registrar. The lecturers choose to use the same end-of-semester course evaluation form as that being used by the Instructor of Record for his other course(s). Our Instructor of Record is welcomed to do in-class observations, and to give any help/suggestion during break. Our Instructor of Record agrees to help with any other unforeseeable issues if needed, unless he sees his involvements being inappropriate. 
 
 
 ### Learning Cooperatively
@@ -169,7 +169,7 @@ You must write your answers in your own words, and you must not share your compl
 
 Please read Berkeley's [Code of Conduct](https://sa.berkeley.edu/code-of-conduct) carefully. Penalties for academic misconduct in are severe and include reporting to the [Center for Student Conduct](https://sa.berkeley.edu/conduct). They might also include a NP in the course or even dismissal from the university. It's just not worth it!
 
-When you need help, reach out to your TA and tutor. **You are not alone in Data 8!** Instructors and staff are here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
+When you need help, reach out to your TA and tutor. **You are not alone!** Instructors and staff are here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
 
 Finally, know that it's normal to struggle. Berkeley has high standards, which is one of the reasons its degrees are valued. Everyone struggles even though many try not to show it. Even if you don't learn everything that's being covered, you'll be able to build on what you do learn, whereas if you cheat you'll have nothing to build on. You aren't expected to be perfect; it's ok not to get an A.
 
