@@ -24,9 +24,8 @@ aux_links:
     - 'https://bcourses.berkeley.edu/courses/1534410'
   Syllabus: 
     - 'https://docs.google.com/document/d/1Dz6GFDBfU3S_VzzhqRJwBhNhM4sqR1jQ02erfx0rhFQ/edit?usp=sharing'
-  Optional Textbook:
-    - url: /assets/files/optional_textbook.pdf
-      icon: "fas fa-file-pdf"
+  Data Science Society:
+    - url: 'https://dssberkeley.com'
 
 
 # Collections for website data
