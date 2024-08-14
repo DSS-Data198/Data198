@@ -6,7 +6,7 @@ status: Active
 
 
 Feb 26
-: **Intro to Pandas (II), Data Cleaning with Pandas**
+: **Data Cleaning with Pandas**
 : **Lecture**{: .label .label-lecture} [Slides 3]
 : **Demos**{: .label .label-demos} [Pandas Demo II], [Data Cleaning Demo]
 : **Resources**{: .label .label-resources} [Pandas Tutor], [Data 100 Lecture Slides], [Pandas API Reference]

@@ -6,6 +6,6 @@ status: Active
 
 
 Apr 22
-: **Symposium II**
+: **Symposium 2**
 : **Lecture**{: .label .label-lecture} [Mini Announcements 11]
 : **Reflection**{: .label .label-survey} **[DeCal Feedback Reflection] (Due 4/26)**

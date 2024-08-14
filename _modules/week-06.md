@@ -5,5 +5,5 @@ status: Active
 ---
 
 Mar 18
-: **Career Panel**
+: **Basic Machine Learning Models**
 : **Lecture**{: .label .label-lecture} [Slides 6], [Mini Announcements 6]

@@ -6,7 +6,7 @@ status: Active
 
 
 Apr 8
-: **Model Evaluation & Cross-Validation**
+: **Symposium 1**
 : **Lecture**{: .label .label-lecture} [Slides 8], [Jonathan's Lightning Talk], [Mini Announcements 9]
 : **Resources**{: .label .label-resources} [Model Evaluation Demo]
-: **Project**{: .label .label-red }**Final Project Submission (Due 4/15, 6:30 PM)**
+: **Project**{: .label .label-project}**Final Project Submission (Due 4/15, 6:30 PM)**

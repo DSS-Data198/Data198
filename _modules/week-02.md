@@ -5,6 +5,6 @@ status: Active
 ---
 
 Feb 19
-: **Data Science Lifecycle, Using Python Libraries, Intro to Pandas (I)**
+: **Intro to Pandas, Project Group Reveals!**
 : **Lecture**{: .label .label-lecture} [Slides 2], [Recording]
 : **Demos**{: .label .label-demos} [Pandas Demo I]

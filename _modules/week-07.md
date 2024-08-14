@@ -5,5 +5,5 @@ status: Active
 ---
 
 Mar 25
-: **Spring Break!**
+: **Machine Learning Evaluations and Cross Validation**
 : **No Class**
