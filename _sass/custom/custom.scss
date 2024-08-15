@@ -330,8 +330,8 @@ a { //anchor tags are gonna be blue
     margin-right: 0 !important; // Example: remove any right margin
     padding-top: 15px !important;
     padding-bottom: 10px !important;
-    padding-left: 0px;
-    padding-right: 15px;
+    padding-left: 0px !important;
+    padding-right: 15px !important;
     margin-top: 0; // Example: remove any margin
     margin-bottom: 0; // Example: remove any margin
   }
