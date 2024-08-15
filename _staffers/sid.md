@@ -8,4 +8,5 @@ team: DSS President
 hover-photo: staff_hovers/sid_hover.jpeg
 linkedin: https://www.linkedin.com/in/siddharth-ramshankar1/
 order: 4
+pronouns: Causal Inference
 ---

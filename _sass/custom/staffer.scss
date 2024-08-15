@@ -42,6 +42,10 @@
     .staffer-pronouns {
       @extend .label, .text-grey-dk-100, .bg-grey-lt-200; /* Just the Docs comes with many default labels, here we're customizing it to be gray */
     }
+
+    .staffer-topics {
+      @extend .label, .text-grey-dk-100, .bg-grey-lt-200; /* Just the Docs comes with many default labels, here we're customizing it to be gray */
+    }
   
     .staffer-meta {
       @extend .text-grey-dk-000;

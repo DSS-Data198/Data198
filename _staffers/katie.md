@@ -6,4 +6,5 @@ bio: Hi! My name is Katie and I am currently a sophomore studying Data Science, 
 role: TA
 linkedin: https://www.linkedin.com/in/katie-h-zhang/
 hover-photo: staff_hovers/katie_hover.jpg
+pronouns: Pandas
 ---

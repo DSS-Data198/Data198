@@ -6,4 +6,5 @@ bio: ALO! I’m Alan, a senior studying EECS. I spawned at Irvine, CA and this w
 role: TA
 linkedin: https://www.linkedin.com/in/alanwang03/
 hover-photo: staff_hovers/alan_hover.jpeg
+pronouns: Data Visualization
 ---

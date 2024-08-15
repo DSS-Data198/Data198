@@ -6,4 +6,5 @@ bio: Hey guys! I'm Henry! I'm a second year Data Science + Cognitive Science Maj
 role: TA
 linkedin: https://www.linkedin.com/in/henry-hong-2b83a9280/
 hover-photo: staff_hovers/henry_hover.png
+pronouns: Support Vector Machines
 ---

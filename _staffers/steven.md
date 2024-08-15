@@ -7,4 +7,5 @@ role: TA
 linkedin: https://www.linkedin.com/in/zengsteven/
 website: stevenzengdp.com
 hover-photo: staff_hovers/steven_hover.png
+pronouns: Data Visualization
 ---

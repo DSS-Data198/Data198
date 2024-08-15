@@ -6,4 +6,5 @@ bio: Hi! I'm Mitchell, a third-year student majoring in Data Science and Economi
 role: TA
 linkedin: https://www.linkedin.com/in/mitchhleee/
 hover-photo: staff_hovers/mitchell_hover.png
+pronouns: Pandas
 ---
