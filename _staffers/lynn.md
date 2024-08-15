@@ -7,4 +7,5 @@ bio: Lynja
 role: Lead
 team: Course Director
 linkedin: https://www.linkedin.com/in/lynnchien1/
+order: 2
 ---

@@ -6,4 +6,5 @@ bio: Stevie
 role: Lead
 team: Course Director
 linkedin: https://www.linkedin.com/in/ryanstevenson12/
+order: 3
 ---

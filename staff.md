@@ -23,9 +23,10 @@ Hover over some of our icons to get a different side of our personalities!
 <h2 style="text-align: center;">Leads</h2>
 
 {% assign leads = site.staffers | where: 'role', 'Lead' %}
+{% assign sorted_director_by_order = leads | sort: 'order' | reverse %}
 
 <div id = "staff-page" class="role flex">
-{% for staffer in leads %}
+{% for staffer in sorted_director_by_order %}
 {{ staffer }}
 {% endfor %}
 </div>
