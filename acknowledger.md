@@ -31,7 +31,7 @@ Created by Brandon Lee Concepcion
 {% endfor %}
 </div>
 
-## Instructional Contributors
+## Academic Development Directors
 {% assign lect = site.acknowledgers| where: 'role', 'instructor' %}
 
 <div class="role flex">
