@@ -7,4 +7,5 @@ role: Lead
 team:  Internal Vice President
 linkedin: https://www.linkedin.com/in/james-geronimo/
 hover-photo: staff_hovers/james_hover.jpg
+order: 5
 ---
