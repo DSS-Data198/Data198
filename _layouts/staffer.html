@@ -10,12 +10,12 @@
 
   .icon{
     padding-left: 7px;
-    width: 15px;
-    height: 15px;
+    width: 19px;
+    height: 19px;
     transition: opacity 0.1s;
     cursor: pointer;
     position: relative;
-    top: 3px; /* Adjust this value until it looks correct */
+    top: 2px; /* Adjust this value until it looks correct */
   }
 
   .icon:hover{
@@ -50,7 +50,7 @@
             {% if page.linkedin %}
             <a href="{{ page.linkedin }}" target="_blank"><ion-icon name="logo-linkedin" class = "icon"></ion-icon></a>
             {% if page.email %}
-            <a href="mailto:{{ page.email }}" target="_blank"><ion-icon name="mail" class = "icon"></ion-icon></a>
+            <a href="mailto:{{ page.email }}" target="_blank"><ion-icon name="mail" class = "icon" style = "color: rgb(6, 10, 11)"></ion-icon></a>
             {% endif %}
             {% endif %}
           </h3>
