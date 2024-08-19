@@ -5,8 +5,5 @@ status: Active
 ---
 
 
-Apr 1
-: **Project Work Day!**
-: **Lecture**{: .label .label-lecture} [Slides 7], [Mini Announcements 8]
-: **Resources**{: .label .label-resources} [ML Models Demo]
-: **Checkpoint**{: .label .label-checkpoint} **[Project Checkpoint 4] (Due 4/12)**
+Nov 11
+: **Veterans Day!**{: .label} No class

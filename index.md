@@ -12,12 +12,12 @@ permalink: index.html
 ## UC Berkeley, Fall 2024
 
 <!--
-## Announcements
 > ### Week 11 Announcements
 > - Mid-Semester Feedback Reflection is due **April 22 at 11:59 PM**: [Mid-Semester Feedback Reflection]
 > - DeCal Feedback Reflection is due **April 26 at 11:59 PM**: [DeCal Feedback Reflection]
 -->
 
+## Announcements
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}

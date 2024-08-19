@@ -4,6 +4,5 @@ class: Berkeley
 status: Active
 ---
 
-Mar 25
-: **Machine Learning Evaluations and Cross Validation**
-: **No Class**
+ Nov 4
+: **7**{: .label} Machine Learning Evaluations and Cross Validation

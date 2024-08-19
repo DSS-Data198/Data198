@@ -4,6 +4,6 @@ class: Berkeley
 status: Active
 ---
 
-Mar 18
-: **Basic Machine Learning Models**
+ Oct 28
+: **6**{: .label} Basic Machine Learning Models
 : **Lecture**{: .label .label-lecture} [Slides 6], [Mini Announcements 6]

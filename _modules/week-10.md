@@ -5,8 +5,5 @@ status: Active
 ---
 
 
-Apr 15
-: **Thanksgiving Break**
-: **Lecture**{: .label .label-lecture} [Mini Announcements 10]
-: **Resources**{: .label .label-resources} [Clean Energy Clustering], [Music Genre Classification]
-: **Reflection**{: .label .label-survey} **[Mid-Semester Feedback Reflection] (Due 4/22)**
+Nov 25
+: **Thanksgiving Break**{: .label} No class
