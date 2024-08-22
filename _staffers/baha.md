@@ -7,4 +7,5 @@ role: TA
 pronouns: Pandas
 linkedin: https://www.linkedin.com/in/baha-alkhatib-684738277/
 hover-photo: staff_hovers/baha_hover.png
+order: 5
 ---

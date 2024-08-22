@@ -8,4 +8,5 @@ linkedin: https://www.linkedin.com/in/zengsteven/
 website: https://stevenzengdp.com
 hover-photo: staff_hovers/steven_hover.png
 pronouns: Data Visualization
+order: 3
 ---

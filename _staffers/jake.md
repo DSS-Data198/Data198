@@ -7,4 +7,5 @@ role: TA
 hover-photo: staff_hovers/jake_hover.png
 linkedin: https://www.linkedin.com/in/jake-xiang/
 pronouns: Machine Learning
+order: 7
 ---

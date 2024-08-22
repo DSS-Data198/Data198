@@ -7,4 +7,5 @@ role: TA
 linkedin: https://www.linkedin.com/in/jocelyn-ding/
 hover-photo: staff_hovers/jocelyn_hover.png
 pronouns: Machine Learning
+order: 8
 ---

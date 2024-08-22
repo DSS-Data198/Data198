@@ -7,4 +7,5 @@ role: TA
 linkedin: https://www.linkedin.com/in/mitchhleee/
 hover-photo: staff_hovers/mitchell_hover.png
 pronouns: SQL 
+order: 2
 ---

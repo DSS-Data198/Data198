@@ -7,4 +7,5 @@ role: TA
 linkedin: https://www.linkedin.com/in/alanwang03/
 hover-photo: staff_hovers/alan_hover.jpeg
 pronouns: Data Visualization
+order: 4
 ---

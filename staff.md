@@ -34,9 +34,10 @@ Hover over some of our icons to get a different side of our personalities!
 ## Teaching Assistants
 
 {% assign tas = site.staffers | where: 'role', 'TA' %}
+{% assign sorted_ta_by_order = tas | sort: 'order' %}
 
 <div id="staff-page" class="role flex">
-{% for staffer in tas %}
+{% for staffer in sorted_ta_by_order %}
 {{ staffer }}
 {% endfor %}
 </div>

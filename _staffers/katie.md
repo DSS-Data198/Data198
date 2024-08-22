@@ -7,4 +7,5 @@ role: TA
 linkedin: https://www.linkedin.com/in/katie-h-zhang/
 hover-photo: staff_hovers/katie_hover.jpg
 pronouns: Pandas
+order: 9
 ---
