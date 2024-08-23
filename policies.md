@@ -23,26 +23,23 @@ description: >-
 
 ### Course Overview
 
-Welcome to Data Science Society at Berkeley’s very own DeCal: Introduction to Real World Data Science, a semester-long course geared towards introducing students to essential data science skills through project-based learning. Our program takes a departure from the traditional classroom setting by allowing members to work collaboratively on an original data science project of their choosing. Members will have full creative control and will receive mentorship from our Decal’s Academic Development members. We will cover every step of the data science lifecycle: from formulating a data-centric project idea, to extracting stories with exploratory data analysis, to finally creating and evaluating machine learning models.
+Welcome to the Data Science Society at Berkeley’s very own DeCal: Introduction to Real World Data Science, a semester-long course designed to equip students with essential data science skills through hands-on, project-based learning. Our program takes a departure from the traditional classroom setting, empowering members to work collaboratively on an original data science project of their choosing, giving them full creative control. Throughout the course, students will receive mentorship from our Decal’s committee members. We will cover every stage of the data science lifecycle – from formulating a data-centric project proposal, to discovering insights through exploratory data analysis, and concluding with the engineering and evaluation of machine learning models.
 
-This introductory course covers a wide variety of data science concepts, both traditionally and not traditionally taught in the lecture halls of Berkeley. We aim to give students programming expertise by providing engaging lessons going through the data science lifecycle while they work through the project lifecycle themselves in a semester-long project.
+This introductory course covers a wide variety of data science concepts, including topics both traditionally and not traditionally taught in the lecture halls of Berkeley. We aim to equip students with programming expertise, through engaging lessons that mirror the data science lifecycle. As students progress, they will directly apply these concepts in their own projects, gaining first-hand experience with each stage of their project’s lifecycle.
 
-In this course, not only will students develop and hone their technical expertise, they will also experience data science in the real world through panels and speaker events. All this and more will challenge students and elevate them in the search for post-graduate opportunities, while still maintaining the low-pressure environment of a DeCal that values learning above all else.
+In this course, students will not only develop and refine their technical skills, but also learn from real-world data scientists through panels and speaker events. Data 198: Introduction to Real World Data Science will challenge students and prepare them in the search for post-graduate opportunities, all while maintaining the low-pressure environment of a DeCal that prioritizes learning above all else.
 
-This class is an application-based, 2-unit P/NP course with an emphasis on concepts that requires minimal background and acts as a hands-on supplement to those interested in learning data science at UC Berkeley. It will consist of a project (undergoing the entire data science lifecycle) that will help you build up your portfolio.  The course is graded on satisfactory completion of this project. There will be a few supplemental checkpoints and weekly quizzes. 
+This course is a 2-unit, application-based P/NP class designed as a hands-on supplement for those interested in learning data science at UC Berkeley. Emphasizing concepts that require minimal prior knowledge, the course will guide students through a data science project (undergoing the entire data science lifecycle) which will help you build up your portfolio.  Grading is based on the satisfactory completion of this project, with a few additional checkpoints and weekly mini-vitamins to reinforce learning. 
 
 ### Learning Outcomes 
-* Understand the data science lifecycle and develop core skills in data manipulation, visualization, modeling and testing in order to make predictions and answer real-world questions.
-* Synthesize the data science concepts and apply them collaboratively in industry settings.
+* Understand the data science lifecycle and develop core skills in data manipulation, visualization, model development, and model evaluation to make predictions and answer real-world questions.
+* Synthesize data science concepts and apply them collaboratively in industry settings.
 * Develop the ability to communicate complex data-based procedures and findings to academic peers.
-* Understand how to ideate an original project based on personal curiosity and data gathering.
-
-
-
+* Understand how to ideate an original project based on personal curiosity and data collection.
 
 ### Prerequisites
 
-The curriculum and format is designed specifically for students who have not previously taken statistics, computer science, and data science courses. Students with some prior experience in computing are welcome to enroll, and often find that this course offers a new perspective that blends computational and inferential thinking. Students who have taken several statistics or computer science courses should instead take a more advanced course like [Data 100](https://ds100.org/).
+The curriculum and format is designed specifically for students who have not previously taken computer science, and data science courses. Students with some prior experience in computing are welcome to enroll, and often find that this course offers a new perspective that blends computational and inferential thinking. Students who have taken several statistics or computer science courses should instead take a more advanced course like [Data 100](https://ds100.org/).
 
 
 ### Support
@@ -60,68 +57,51 @@ Your TA and tutor will be your main point of contact for all course related ques
 
 ### Live Lecture
 
-Live lectures will be held from **TBD**; students are expected to attend live lectures synchronously. We will not be recording these, unless enforced otherwise by university guidelines. Slides and lecture examples will be provided on the course website.
-
-<!-->
-### Assignments and Projects
-
-Bi-weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you are allowed to discuss problems with other students and course staff. See the [Learning Cooperatively](#learning-cooperatively) section below.
-
-Homeworks will be **released on Tuesday and Friday**, and are **due that same Friday and the following Tuesday night, respectively**.
-
-Data science is about analyzing real-world data sets, and so you will also complete two projects involving real data. On each project, you may work with a single partner; your partner must be from the lab you enrolled in. Both partners will receive the same score.
-
-If you submit a homework or project 24 hours before the deadline or earlier, you will receive 5 bonus points on that assignment.
-
-### Exams
-
-The midterm exam will be held on **Friday, July 12 from 11am-1pm PT**. Please note the date and time carefully.
-
-The final exam is required for a passing grade, and will be held on **Wednesday, August 7 from 11am-1pm PT**.
-
-There will be **no alternate exams** for the midterm and the final exam for those with exam conflicts. If you have exam accommodations on file with the DSP office, they will be taken into account for both the midterm and final exams.
--->
+Live lectures will be held on **Mondays, 6:30PM to 8:30PM, at <a href = "https://ced.berkeley.edu/about-ced/our-spaces/bauer-wurster-hall" target = "_blank">Wurster</a> 102**; students are **expected** to attend live lectures synchronously, as we will not be recording lectures unless enforced otherwise by university guidelines. Slides and lecture examples will be provided on the course website during class time.
 
 ## Grades
 
 Grades will be assigned using the following weighted components. 
 
 | **Activity** | **Grade** |
-| Attendance | 30% |
-| Assignments | 35% |
-| Final Projects | 35% |
+| Attendance | 30% (First two classes are **mandatory**)|
+| Mini-Vitamins | 20% |
+| Checkpoints/Reflections | 20% |
+| Final Project | 30% |
 
-### Attendance 
+## Attendance 
 
-This class will be difficult to follow if you do not keep up with the material. Prior to each class, you should review previous material and be engaged in class discussion. Attendance will be taken strictly during the class. You will be expected to attend the DeCal. The main way we will be taking attendance is through an attendance form that you will fill out during class time. 
+This class will be difficult if you do not keep up with the material. Prior to each class, you should review previous material and be engaged in class discussion. Students **will** be expected to attend the DeCal, with attendance being taken strictly during the end of lecture. 
 
 The first two meetings of the DeCal are **mandatory**, no exceptions. If you miss any of the first two meetings, your spot will be taken by the next person on the waitlist.
 
-Up to two unexcused absences are allowed without penalty. Excused attendances (i.e. family emergencies, midterm conflicts, medical reasons) should be approved by facilitators at least 24 hours prior to the class time: 
+There are up to **two** unexcused absences allowed without penalty. Excused attendances (i.e. family emergencies, midterm conflicts, medical reasons) should be approved by Course Directors at least 24 hours prior to the class time. To get approved for an excused absence, you may choose one of two options: 
 
-1) to your mentor and/or 
-2) to the dss.data198@gmail.com email explaining your absence.
+* Contact your TA and Tutor about your absence 
+* Send a message to <a href = "mailto:dss.data198@gmail.com">dss.data198@gmail.com</a> explaining your absence.
 
+## Mini Vitamins
+We will also have mini-vitamins due the night after each lecture (Monday 11:59PM). These mini-vitamins are graded on *correctness*, and designed to be a quick concept check for the topics covered during lecture. 
 
+You are allowed to collaborate with each other on mini-vitamin questions, but you must answer the questions yourselves. Students will submit these mini-vitamins on Gradescope. 
 
-### Assignments 
+## Assignments 
 
-In order to properly pace students through the final project, there will be 7 assignments in total: 5 project checkpoints and 2 reflections. Completing these assignments is essential in doing well on the final project, and ultimately the DeCal.
+In order to properly pace students through the final project, there will be 7 assignments in total: 4 project checkpoints and 2 reflections. Completing these assignments are essential for doing well on the final project, and ultimately the DeCal. Project checkpoints will be submitted on Bcourses. 
 
-### Final Project 
+## Final Project 
 
-Over the course of the semester, along with the support of their TAs and tutors, students will work on a data science project in a domain of their choice from start to finish and will be expected to present their work at the end of the semester at a final research symposium. 
+Over the course of the semester, along with the support of their TAs and tutors, students will work on a data science project in a domain of their choice. Students are expected to present their work during the end of semester final research symposium. 
 
 Projects are an essential component to any technical course, especially one that aims to synthesize computing with real-world applications.
 
 The project for this class will be graded on three points: Content, Presentation, and Collaboration.
 
-Projects are designed to be open-ended and encourage students to think critically every step of the way: from the dataset(s) they choose, to the visualization techniques they employ. This allows for students to experience a date science domain of their choosing, while still grounding themselves in the material of the course.
-
+Projects are designed to be open-ended, and meant for applying the skills, topics, and techniques learned during the course. This allows for students to experience a date science domain of their choosing, while still grounding themselves in the material of the course.
 
 **Late project submissions are deducted 10% for every day they are late.**
 
-**No submissions of any kind will be accepted after May 3rd to provide course staff with enough time to grade before the deadline to submit final grades.**
+**No submissions of any kind will be accepted after Dec 2nd to provide course staff with enough time to grade before the deadline to submit final grades.**
 
 **Reminder:** This course is 2 unit P/NP and a grade of 70% or higher is required to pass the course.
 
@@ -148,7 +128,7 @@ Due to the fast pace of the summer offering, **we are unable to offer assignment
 
 ## Supervision & Responsibility of Instructor of Record
 
-* The Instructor of Record for DATA 198 - Introduction to Real-World Data Science will be Prof. Zachary Pardos
+* The Instructor of Record for DATA 198 - Introduction to Real-World Data Science will be TBD
 * The lecturers will share instructional materials with the Instructor of Record, via email/Google Drive, at least two weeks before the instruction, and expect to get feedback, via email/comments on materials within a week. 
     * The lecturers will then have ~5 days to revise and rehearse for new materials.
 * The lecturers will schedule meetings with the Instructor of Record, at least a week before instruction begins, to seek advice and/or explanation on confusing/uncertain concepts.
@@ -158,22 +138,22 @@ Due to the fast pace of the summer offering, **we are unable to offer assignment
 
 ### Learning Cooperatively
 
-We encourage you to discuss course content with your friends and classmates as you are working on your assignments. No matter your academic background, you will learn more if you work alongside others than if you work alone. Ask questions, answer questions, and share ideas liberally.
+As you work on your assignments, we encourage you to discuss course content with your project partners. No matter your academic background, you will learn more if you work alongside others than if you work alone. Ask questions, answer questions, and share ideas liberally.
 
-If some emergency takes you away from the course for an extended period, or if you decide to drop the course for any reason, please don’t just disappear silently! You should inform your lab TA and your project partner (if you have one) immediately, so that nobody is expecting you to do something you can’t finish.
+If some emergency takes you away from the course for an extended period, or if you decide to drop the course for any reason, please don’t just disappear silently! You should inform your TA, Tutor, and project partners immediately, so that nobody is expecting you to do something you can’t finish.
 
 
 ## Academic Honesty
 
 You must write your answers in your own words, and you must not share your completed work. The exception to this rule is that you can share everything related to a project with your project partners and turn in one project between all of you. 
 
-Please read Berkeley's [Code of Conduct](https://sa.berkeley.edu/code-of-conduct) carefully. Penalties for academic misconduct in are severe and include reporting to the [Center for Student Conduct](https://sa.berkeley.edu/conduct). They might also include a NP in the course or even dismissal from the university. It's just not worth it!
+Please read Berkeley's [Code of Conduct](https://sa.berkeley.edu/code-of-conduct) carefully. Penalties for academic misconduct are severe, and include reporting to the [Center for Student Conduct](https://sa.berkeley.edu/conduct). They might also include a NP in the course or even dismissal from the university. It's just not worth it!
 
-When you need help, reach out to your TA and tutor. **You are not alone!** Instructors and staff are here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
+When you need help, reach out to your TA and tutor. **You are not alone!** Directors and staff are here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as staff will work with integrity and with respect for you.
 
-Finally, know that it's normal to struggle. Berkeley has high standards, which is one of the reasons its degrees are valued. Everyone struggles even though many try not to show it. Even if you don't learn everything that's being covered, you'll be able to build on what you do learn, whereas if you cheat you'll have nothing to build on. You aren't expected to be perfect; it's ok not to get an A.
+Finally, know that it's normal to struggle. Berkeley has high standards, which is one of the reasons its degrees are valued. Everyone struggles even though many try not to show it. Even if you don't learn everything that's being covered, you'll be able to build on what you do learn, whereas if you cheat you'll have nothing to build on. You aren't expected to be perfect.
 
 ## A Parting Thought
 
-The main goal of the course is that you should learn, and have a fantastic experience doing so. Please keep that goal in mind throughout the semester. Welcome to Data 198: Introduction to Real World Data Science!
+The main goal of the course is that you should learn, and have a fantastic experience doing so. Please keep that goal in mind throughout the semester. Welcome to Data Science Society at Berkeley's Data 198: Introduction to Real World Data Science!
 
