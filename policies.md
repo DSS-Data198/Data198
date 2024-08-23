@@ -83,7 +83,7 @@ There are up to **two** unexcused absences allowed without penalty. Excused atte
 ## Mini Vitamins
 We will also have mini-vitamins due the night after each lecture (Monday 11:59PM). These mini-vitamins are graded on *correctness*, and designed to be a quick concept check for the topics covered during lecture. 
 
-You are allowed to collaborate with each other on mini-vitamin questions, but you must answer the questions yourselves. Students will submit these mini-vitamins on Gradescope. 
+You are allowed to collaborate with each other, as well as their TA and tutor on mini-vitamin questions, but you must answer the questions yourselves. Students will submit these mini-vitamins on Bcourses. 
 
 ## Assignments 
 
