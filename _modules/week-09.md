@@ -7,4 +7,4 @@ status: Active
 
 Nov 18
 : **8**{: .label} Symposium 1
-: **Lecture**{: .label .label-lecture} [Mini Announcements 9]
+: **Lecture**{: .label .label-lecture} Mini Announcements

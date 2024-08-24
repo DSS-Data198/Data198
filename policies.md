@@ -101,7 +101,7 @@ Projects are designed to be open-ended, and meant for applying the skills, topic
 
 **Late project submissions are deducted 10% for every day they are late.**
 
-**No submissions of any kind will be accepted after Dec 2nd to provide course staff with enough time to grade before the deadline to submit final grades.**
+**No project submissions of any kind will be accepted after Nov 15th, as to provide staff with enough time to grade before the final grade submission deadline**
 
 **Reminder:** This course is 2 unit P/NP and a grade of 70% or higher is required to pass the course.
 
