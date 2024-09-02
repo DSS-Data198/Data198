@@ -24,7 +24,7 @@
     }
   
     .acknowledger div {
-      width: 200px !important; //Controls the width of each acknowledgements div (on the acknowledgements page)
+      width: 280px !important; //Controls the width of each acknowledgements div (on the acknowledgements page)
     }
   
   }
@@ -42,7 +42,7 @@
     }
   
     .acknowledger div {
-      max-width: 200px !important;
+      max-width: 280px !important;
     }
   
     .search-input {
@@ -84,7 +84,7 @@
   }
   
   .acknowledger {
-    max-width: 500px !important;
+    max-width: 830px !important; //Used to specify the width of the whole acknowledger page
     font-size: 0.8em !important;
   }
 
@@ -351,17 +351,16 @@ a { //anchor tags are gonna be blue
     margin: 0px;
     padding-top: 1px !important;
     padding-bottom: 1px !important;
-  
   }
   
   #ack-page .main-content-wrap {
-    max-width: 100% !important; // Example: make the content wrap take the full width
+    width: 380px !important; // Example: make the content wrap take the full width
     margin-left: 0 !important; // Example: remove any left margin
     margin-right: 0 !important; // Example: remove any right margin
     padding-top: 15px !important;
     padding-bottom: 10px !important;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 0px !important;
+    padding-right: 8px !important;
     margin-top: 0; // Example: remove any margin
     margin-bottom: 0; // Example: remove any margin
   }
