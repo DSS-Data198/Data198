@@ -87,7 +87,7 @@ You are allowed to collaborate with each other, as well as their TA and tutor on
 
 ## Assignments 
 
-In order to properly pace students through the final project, there will be 7 assignments in total: 4 project checkpoints and 2 reflections. Completing these assignments are essential for doing well on the final project, and ultimately the DeCal. Project checkpoints will be submitted on Bcourses. 
+In order to properly pace students through the final project, there will be 6 assignments in total: 4 project checkpoints and 2 reflections. Completing these assignments are essential for doing well on the final project, and ultimately the DeCal. Project checkpoints will be submitted on Bcourses. 
 
 ## Final Project 
 
@@ -105,26 +105,6 @@ Projects are designed to be open-ended, and meant for applying the skills, topic
 
 **Reminder:** This course is 2 unit P/NP and a grade of 70% or higher is required to pass the course.
 
-<!-->
-## Assignments
-
-### Submitting Assignments
-
-All assignments (homework, labs, and projects) will be submitted on Gradescope. Please refer to [this tutorial](https://drive.google.com/file/d/1j-H2NCyC01SL8P2rkyiz7-AYFXE11HCD/view?usp=sharing) for submitting assignments.
-
-### Late Submission
-
-**The deadline for all assignments in this course is 11 PM PT**. Assignments submitted **until 11:59 PM** on the day of the deadline will not be marked as late. **Homework and lab submissions after this time <span style="text-decoration: underline">will not be accepted</span>**.
-
-We understand that life happens. For this reason, **your two lowest homework scores and two lowest lab scores will be dropped in the calculation of your overall grade.** If you have an ongoing situation that prevents you from completing course content, please contact your lab TA.
-
-Projects will be accepted up to 2 days (48 hours) late. Projects submitted fewer than 24 hours after the deadline will receive 2/3 credit, and projects submitted between 24 and 48 hours after the deadline will receive 1/3 credit. Projects submitted 48 hours or more after the deadline will receive no credit.
-
-### Assignment Extensions
-
-Due to the fast pace of the summer offering, **we are unable to offer assignment extensions for the vast majority of students.** As mentioned above, you are provided two lab and homework drops for emergency situations that may come up. Only after using all your assignment drops, if you continue to encounter further emergencies beyond your control, please do not hesitate to reach out. Please fill out the [Extenuating Circumstances Form](https://docs.google.com/forms/d/e/1FAIpQLScuJXqPqocHgYd1SLx2GryGVUhcA6_OzDtYZvbhek3La65KxA/viewform), and a course staff member will reach out to you and provide a space for conversation, as well as to arrange accommodations as necessary. Note that you will be asked to provide supporting documentation, and these requests will be approved on a case-by-case basis.
-
--->
 
 ## Supervision & Responsibility of Instructor of Record
 
