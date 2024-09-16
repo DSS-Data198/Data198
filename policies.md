@@ -131,8 +131,6 @@ Please read Berkeley's [Code of Conduct](https://sa.berkeley.edu/code-of-conduct
 
 When you need help, reach out to your TA and tutor. **You are not alone!** Directors and staff are here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as staff will work with integrity and with respect for you.
 
-Finally, know that it's normal to struggle. Berkeley has high standards, which is one of the reasons its degrees are valued. Everyone struggles even though many try not to show it. Even if you don't learn everything that's being covered, you'll be able to build on what you do learn, whereas if you cheat you'll have nothing to build on. You aren't expected to be perfect.
-
 ## A Parting Thought
 
 The main goal of the course is that you should learn, and have a fantastic experience doing so. Please keep that goal in mind throughout the semester. Welcome to Data Science Society at Berkeley's Data 198: Introduction to Real World Data Science!
