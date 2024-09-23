@@ -11,6 +11,7 @@ permalink: index.html
 
 ## UC Berkeley, Fall 2024
 
+[Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
 ## Announcements
 {% assign announcements = site.announcements | reverse %}

@@ -4,3 +4,6 @@ week: 1
 date: 2024-09-23 #Year-Month-Date
 ---
 * Welcome to DATA 198: Introduction to Real World Data Science! We're still constructing this site... stay tuned! 
+
+## Quote of the week:
+* *“Even the greatest was once a beginner. Don’t be afraid to take that first step.” —Muhammad Ali*
