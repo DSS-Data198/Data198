@@ -27,6 +27,9 @@ aux_links:
   Data Science Society at Berkeley:
     - 'https://dssberkeley.com'
 
+links: 
+  lectures: 
+    lecture01: "https://docs.google.com/presentation/d/1Y6ezn8ce3wFs6vQvDmse9NEn62bD7Fdj0wxOlEjnckc/edit?usp=sharing"
 
 # Collections for website data
 collections: 
