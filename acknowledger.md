@@ -9,10 +9,11 @@ nav_order: 4
 Created by Brandon Lee Concepcion
 {: .no_toc .text-delta }
 
-
+<!-->
 ## Website Contributors
 {% assign web = site.acknowledgers| where: 'role', 'website' %}
 {% assign sorted_website = web | sort: 'rank' %}
+-->
 
 <div class="role flex">
 {% for acknowledger in sorted_website %}
