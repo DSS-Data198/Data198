@@ -1,9 +1,10 @@
 ---
-title: Week 1 Announcements
-week: 1
-date: 2024-09-23 #Year-Month-Date
+title: Week 2 Announcements
+week: 2
+date: 2024-09-30 #Year-Month-Date
 ---
-* Welcome to DATA 198: Introduction to Real World Data Science! We're still constructing this site... stay tuned! 
+* Lecture 2: Pandas will be held on Monday, September 30
+* Project 1 Checkpoint due 
 
 ## Quote of the week:
-* *“Even the greatest was once a beginner. Don’t be afraid to take that first step.” —Muhammad Ali*
+* *“You see where you're going. Now let's worry about how you get there.” Clint Barton*
