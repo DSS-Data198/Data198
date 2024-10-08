@@ -11,7 +11,6 @@ current_week: 3
 #baseurl: # the subpath of your site, e.g. /blog
 favicon: assets/site_images/favicon.ico
 url: "https://dssdecal.org
-baseurl: ""
 
 #url: https://dss-data-198.github.io # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
