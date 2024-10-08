@@ -7,7 +7,7 @@ theme: just-the-docs
 just_the_docs:
   favicon:
     path: assets/site_images/favicon.png
-current_week: 2
+current_week: 3
 #baseurl: # the subpath of your site, e.g. /blog
 
 #url: https://dss-data-198.github.io # the base hostname & protocol for your site, e.g. http://example.com
