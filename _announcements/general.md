@@ -1,7 +1,7 @@
 ---
 title: Week 2 Announcements
 week: 2
-date: 2024-09-30 #Year-Month-Date
+date: 2024-10-07 #Year-Month-Date
 ---
 * Checkpoint 1 is due Monday, October 7 at 2024
 * [Manav](https://www.linkedin.com/in/manavbhargava7/) and [Mitchell](https://www.linkedin.com/in/mitchhleee/) will be presenting Lecture 3: Data Cleaning with Pandas tonight! 
