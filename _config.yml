@@ -33,12 +33,15 @@ links:
   lectures: 
     lecture01: "https://docs.google.com/presentation/d/1Y6ezn8ce3wFs6vQvDmse9NEn62bD7Fdj0wxOlEjnckc/edit?usp=sharing"
     lecture02: "https://docs.google.com/presentation/d/1W1BiLirR5FE6RXjE4Y-ifCanVRpg9oaZjTbIdbVdUjw/edit?usp=sharing"
+    lecture03: "https://docs.google.com/presentation/d/17wKBi6-kg8QnWb2ecXX7o3Pqs94Qnjw-emxIC4RwDec/edit?usp=sharing"
   demos: 
     demo01: "https://deepnote.com/workspace/joseph-zhai-4d2cff32-3181-4ae6-a47d-dc9f02262638/project/DSS-Acadev-Lecture-2-Duplicate-82001e9c-93b5-41ef-a966-40cb86c2e838/notebook/Notebook%201-f92f2b9db8e749958ae2ed633fcaf634"
+    demo02: "https://shorturl.at/cRpn" 
   readings: 
     reading01: "https://ds100.org/course-notes/pandas_1/pandas_1.html"
     reading02: "https://ds100.org/course-notes/pandas_2/pandas_2.html"
     reading03: "https://ds100.org/course-notes/pandas_3/pandas_3.html"
+    reading04: "https://deepnote.com/app/rickyharyanto14-3390/Data-Cleansing-Study-Case-Telco-a8a54d4a-e82e-49f3-ab82-14ee2121c94b"
   
 
 # Collections for website data
