@@ -3,10 +3,11 @@ title: Week 2 Announcements
 week: 2
 date: 2024-09-30 #Year-Month-Date
 ---
-* The <a href = "https://bcourses.berkeley.edu/courses/1539886" target = "_blank">bCourses</a> site is now live! 
-* [Alan](https://www.linkedin.com/in/alanwang03/) and [Jocelyn](https://www.linkedin.com/in/jocelyn-ding/) will be presenting Lecture 2: Pandas tonight! 
-* Project 1 Checkpoint will be released at 8:00pm on 9/30 and will be due next **Monday**, October 7 at 11:59pm
+* Checkpoint 1 is due Monday, October 7 at 2024
+* [Manav](https://www.linkedin.com/in/manavbhargava7/) and [Mitchell](https://www.linkedin.com/in/mitchhleee/) will be presenting Lecture 3: Data Cleaning with Pandas tonight! 
+* Project 2 Checkpoint will be released at 8:00pm on 10/07 and will be due next **Monday**, October 14 at 11:59pm
+* Mini Vitamin 2 will be released at 7:00pm on 10/07 and will be due the **same day** at 11:59pm
 
 
 ## Quote of the week:
-* *“You see where you're going. Now let's worry about how you get there.” Clint Barton*
+* "Cleaning is not a chore; it's a way of life."
