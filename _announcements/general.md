@@ -1,6 +1,6 @@
 ---
-title: Week 2 Announcements
-week: 2
+title: Week 3 Announcements
+week: 3
 date: 2024-10-07 #Year-Month-Date
 ---
 * Checkpoint 1 is due Monday, October 7 at 2024
