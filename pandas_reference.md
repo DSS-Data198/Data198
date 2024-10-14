@@ -19,6 +19,13 @@ Created by Brandon Concepcion
 
 ---
 
+## What is Pandas?
+[Pandas](https://pandas.pydata.org/docs/index.html){:target="_blank"} is a powerful data manipulation and analysis library in Python. It provides two main data structures:
+
+* `DataFrame`: A 2-dimensional tabular data structure with labeled axes (rows and columns), similar to a spreadsheet in Excel or Google Sheets
+* `Series`: A 1-dimensional labeled array capable of holding any data type. You can think of these as the columns of a DataFrame
+
+
 ## Pandas
 In the examples in the left column, `pd` refers to the Pandas library. `df` refers to a generic DataFrame.
 
