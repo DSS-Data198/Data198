@@ -7,13 +7,16 @@ theme: just-the-docs
 just_the_docs:
   favicon:
     path: assets/site_images/favicon.png
-current_week: 3
+current_week: 4
 #baseurl: # the subpath of your site, e.g. /blog
 favicon: assets/site_images/favicon.ico
 url: "https://dssdecal.org"
 
 #url: https://dss-data-198.github.io # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+
+html:
+  favicon                   : "assets/site_images/dss.png"  # A path to a favicon image
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
@@ -36,6 +39,7 @@ links:
     lecture01: "https://docs.google.com/presentation/d/1Y6ezn8ce3wFs6vQvDmse9NEn62bD7Fdj0wxOlEjnckc/edit?usp=sharing"
     lecture02: "https://docs.google.com/presentation/d/1W1BiLirR5FE6RXjE4Y-ifCanVRpg9oaZjTbIdbVdUjw/edit?usp=sharing"
     lecture03: "https://docs.google.com/presentation/d/17wKBi6-kg8QnWb2ecXX7o3Pqs94Qnjw-emxIC4RwDec/edit?usp=sharing"
+    lecture04: "https://docs.google.com/presentation/d/1x2JPtYYrJRha4F_jYQJeWWhwohKNidZMiFKQo5nqi9w/edit?usp=sharing"
   demos: 
     demo01: "https://deepnote.com/workspace/joseph-zhai-4d2cff32-3181-4ae6-a47d-dc9f02262638/project/DSS-Acadev-Lecture-2-Duplicate-82001e9c-93b5-41ef-a966-40cb86c2e838/notebook/Notebook%201-f92f2b9db8e749958ae2ed633fcaf634"
     demo02: "https://shorturl.at/cRpn" 

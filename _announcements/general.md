@@ -1,13 +1,12 @@
 ---
-title: Week 3 Announcements
-week: 3
-date: 2024-10-07 #Year-Month-Date
+title: Week 4 Announcements
+week: 4
+date: 2024-10-14 #Year-Month-Date
 ---
-* Checkpoint 1 is due Monday, October 7 at 2024
-* [Manav](https://www.linkedin.com/in/manavbhargava7/) and [Mitchell](https://www.linkedin.com/in/mitchhleee/) will be presenting Lecture 3: Data Cleaning with Pandas tonight! 🧹
-* Project 2 Checkpoint will be released at 8:00pm on 10/07 and will be due next **Monday**, October 14 at 11:59pm
-* Mini Vitamin 2 will be released at 7:00pm on 10/07 and will be due the **same day** at 11:59pm
+* Checkpoint 2 is due Monday, October 14 at 11:59pm
+* <a href = "https://www.linkedin.com/in/alishaluc/" target = "_blank">Alisha </a> and <a href = "https://www.linkedin.com/in/zengsteven/" target = "_blank">Steven </a>will be presenting Lecture 4: Data Visualization, Exploratory Data Analysis 📈
+* Mini Vitamin 3 will be released at 7:00pm on 10/14 and will be due the **same day** at 11:59pm
 
 
 ## Quote of the week:
-* "Cleaning is not a chore; it's a way of life."
+* "The value of experience is not in seeing much, but in seeing wisely" - <a href = "https://www.britannica.com/biography/Sir-William-Osler-Baronet" target = "_blank">William Osler</a>
