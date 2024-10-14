@@ -42,7 +42,7 @@ links:
     lecture04: "https://docs.google.com/presentation/d/1x2JPtYYrJRha4F_jYQJeWWhwohKNidZMiFKQo5nqi9w/edit?usp=sharing"
   demos: 
     demo01: "https://deepnote.com/workspace/joseph-zhai-4d2cff32-3181-4ae6-a47d-dc9f02262638/project/DSS-Acadev-Lecture-2-Duplicate-82001e9c-93b5-41ef-a966-40cb86c2e838/notebook/Notebook%201-f92f2b9db8e749958ae2ed633fcaf634"
-    demo02: "https://shorturl.at/cRpn" 
+    demo02: "https://mybinder.org/v2/gh/DSS-Data198/demos/HEAD?labpath=data_cleaning%2FNotebook.ipynb" 
   readings: 
     reading01: "https://ds100.org/course-notes/pandas_1/pandas_1.html"
     reading02: "https://ds100.org/course-notes/pandas_2/pandas_2.html"
