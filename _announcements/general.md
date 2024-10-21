@@ -1,13 +1,13 @@
 ---
-title: Week 4 Announcements
-week: 4
-date: 2024-10-14 #Year-Month-Date
+title: Week 5 Announcements
+week: 5
+date: 2024-10-21 #Year-Month-Date
 ---
 * A beta version of the DeCal textbook can be found <a href = "https://dss-data198.github.io/textbook" target = "_blank">here!</a>
-* Checkpoint 2 is due Monday, October 14 at 11:59pm
-* <a href = "https://www.linkedin.com/in/alishaluc/" target = "_blank">Alisha </a> and <a href = "https://www.linkedin.com/in/zengsteven/" target = "_blank">Steven </a>will be presenting Lecture 4: Data Visualization, Exploratory Data Analysis 📈
-* Mini Vitamin 3 will be released at 7:00pm on 10/14 and will be due the **same day** at 11:59pm
 * Checkpoint 3 is due Monday, October 28 at 11:59pm
+* <a href = "https://www.linkedin.com/in/jake-xiang/" target = "_blank">Jake </a> and <a href = "https://www.linkedin.com/in/yarahassan1/" target = "_blank">Yara </a>will be presenting Lecture 5: Hypothesis Testing 🔬
+* We will be hosting a Career Panel featuring Aarthi Kannan, Jonathan Ferrari, and Michael Florip!
+* Mini Vitamin 4 will be released at 7:00pm on 10/21 and will be due the **same day** at 11:59pm
 
 ## Quote of the week:
-* "The value of experience is not in seeing much, but in seeing wisely" - <a href = "https://www.britannica.com/biography/Sir-William-Osler-Baronet" target = "_blank">William Osler</a>
+* "The only way to test a hypothesis is to look for all the information that disagrees with it" - <a href = "https://iep.utm.edu/popp-pol/" target = "_blank">Karl Popper</a>

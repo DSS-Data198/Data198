@@ -7,7 +7,7 @@ theme: just-the-docs
 just_the_docs:
   favicon:
     path: assets/site_images/favicon.png
-current_week: 4
+current_week: 5
 #baseurl: # the subpath of your site, e.g. /blog
 favicon: assets/site_images/favicon.ico
 url: "https://dssdecal.org"
@@ -43,6 +43,7 @@ links:
   demos: 
     demo01: "https://deepnote.com/workspace/joseph-zhai-4d2cff32-3181-4ae6-a47d-dc9f02262638/project/DSS-Acadev-Lecture-2-Duplicate-82001e9c-93b5-41ef-a966-40cb86c2e838/notebook/Notebook%201-f92f2b9db8e749958ae2ed633fcaf634"
     demo02: "https://hub.ovh2.mybinder.org/user/dss-data198-demos-n98zi3r7/doc/tree/data_cleaning/Notebook.ipynb"
+    demo03: "https://www.google.com/url?q=https://shorturl.at/TExkv&sa=D&source=editors&ust=1729556860915882&usg=AOvVaw0nQGz8XC_vWOcHn2DgWCIB"
   readings: 
     reading01: "https://ds100.org/course-notes/pandas_1/pandas_1.html"
     reading02: "https://ds100.org/course-notes/pandas_2/pandas_2.html"
