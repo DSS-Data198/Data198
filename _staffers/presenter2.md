@@ -6,5 +6,5 @@ bio: Heyyy, I'm Yara!! I'm a second year studying Data Science and Environmental
 role: Tutor
 pronouns: Pandas
 linkedin: https://www.linkedin.com/in/yarahassan1/
-hover-photo: staff_hovers/yara_hover.jpg
+presenter: yes
 ---

@@ -8,4 +8,5 @@ role: TA
 linkedin: https://www.linkedin.com/in/jake-xiang/
 pronouns: Machine Learning
 order: 7
+presenter: yes
 ---

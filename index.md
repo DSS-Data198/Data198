@@ -13,7 +13,15 @@ permalink: index.html
 
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
-## Announcements
+{% assign instructors = site.staffers | where: 'presenter', 'yes' %}
+
+<div class="role flex">
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+</div>
+
+
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
