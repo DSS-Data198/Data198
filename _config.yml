@@ -4,13 +4,9 @@ logo: assets/site_images/dsslogo.png
 author: Directors of Academic Development
 email: dss.data198@gmail.com
 theme: just-the-docs
-just_the_docs:
-  favicon:
-    path: assets/site_images/favicon.png
 current_week: 5
-#baseurl: # the subpath of your site, e.g. /blog
 favicon: assets/site_images/favicon.ico
-url: "https://dssdecal.org"
+#url: "https://dssdecal.org"
 baseurl: "/fa24"
 
 #url: https://dss-data-198.github.io # the base hostname & protocol for your site, e.g. http://example.com
@@ -20,14 +16,14 @@ html:
   favicon                   : "assets/site_images/dss.png"  # A path to a favicon image
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.3.3
+#remote_theme: just-the-docs/just-the-docs@v0.3.3
 color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
   Optional Textbook: 
-    - https://dss-data198.github.io/Data198/assets/files/optional_textbook.pdf
+    - https://dss-data198.github.io/fa24/assets/files/optional_textbook.pdf
   Syllabus: 
     - 'https://docs.google.com/document/d/1Dz6GFDBfU3S_VzzhqRJwBhNhM4sqR1jQ02erfx0rhFQ/edit?usp=sharing'
   Data Science Society at Berkeley:
