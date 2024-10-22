@@ -40,10 +40,12 @@ links:
     lecture02: "https://docs.google.com/presentation/d/1W1BiLirR5FE6RXjE4Y-ifCanVRpg9oaZjTbIdbVdUjw/edit?usp=sharing"
     lecture03: "https://docs.google.com/presentation/d/17wKBi6-kg8QnWb2ecXX7o3Pqs94Qnjw-emxIC4RwDec/edit?usp=sharing"
     lecture04: "https://docs.google.com/presentation/d/1x2JPtYYrJRha4F_jYQJeWWhwohKNidZMiFKQo5nqi9w/edit?usp=sharing"
+    lecture05: "https://docs.google.com/presentation/d/1cT2F-u0tukJWCUcAZiGri2qhG3bT4SYJEItaWMSPYe4/edit?usp=sharing"
   demos: 
     demo01: "https://deepnote.com/workspace/joseph-zhai-4d2cff32-3181-4ae6-a47d-dc9f02262638/project/DSS-Acadev-Lecture-2-Duplicate-82001e9c-93b5-41ef-a966-40cb86c2e838/notebook/Notebook%201-f92f2b9db8e749958ae2ed633fcaf634"
     demo02: "https://hub.ovh2.mybinder.org/user/dss-data198-demos-n98zi3r7/doc/tree/data_cleaning/Notebook.ipynb"
     demo03: "https://www.google.com/url?q=https://shorturl.at/TExkv&sa=D&source=editors&ust=1729556860915882&usg=AOvVaw0nQGz8XC_vWOcHn2DgWCIB"
+    demo04: "https://deepnote.com/workspace/jakex-26b2579d-a0a9-4866-9a6e-9a76f523e999/project/Jake-Xiangs-Untitled-project-82de45cb-e433-41e9-b20c-61411c9da3ba/notebook/DSS-FA24-Hypothesis-Testing-44e9d2213a5c4a54a8910d88904f60b4"
   readings: 
     reading01: "https://ds100.org/course-notes/pandas_1/pandas_1.html"
     reading02: "https://ds100.org/course-notes/pandas_2/pandas_2.html"
