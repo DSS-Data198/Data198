@@ -9,7 +9,7 @@ favicon: assets/site_images/favicon.ico
 #url: "https://dssdecal.org"
 baseurl: "/fa24"
 
-url: https://dss-data-198.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://dssdecal.github.io # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 html:
@@ -23,7 +23,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Optional Textbook: 
-    - https://dss-data198.github.io/fa24/assets/files/optional_textbook.pdf
+    - https://dssdecal.github.io/fa24/assets/files/optional_textbook.pdf
   Syllabus: 
     - 'https://docs.google.com/document/d/1Dz6GFDBfU3S_VzzhqRJwBhNhM4sqR1jQ02erfx0rhFQ/edit?usp=sharing'
   Data Science Society at Berkeley:
