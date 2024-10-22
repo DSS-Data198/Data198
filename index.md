@@ -9,10 +9,12 @@ permalink: index.html
 
 # Data 198: Introduction to Real World Data Science <img style = "width: 45px; margin-left: 15px; vertical-align: top;" src = "assets/site_images/dsslogopng.png">
 
-## UC Berkeley, Fall 2024
+## University of California, Berkeley, Fall 2024
 
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
+
+## Instructors For This Week
 {% assign instructors = site.staffers | where: 'role', 'presenter' %}
 
 <div class="role flex">
