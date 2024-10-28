@@ -1,7 +1,7 @@
 title: Data 198
 description: Introduction to Real World Data Science
 logo: assets/site_images/dsslogo.png
-author: Directors of Academic Development
+author: Directors of Academic Development Fall 24
 email: dss.data198@gmail.com
 theme: just-the-docs
 current_week: 6
@@ -22,8 +22,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Optional Textbook: 
-    - https://dssdecal.github.io/fa24/assets/files/optional_textbook.pdf
+  Textbook: 
+    - https://dssdecal.com/textbook
   Syllabus: 
     - 'https://docs.google.com/document/d/1Dz6GFDBfU3S_VzzhqRJwBhNhM4sqR1jQ02erfx0rhFQ/edit?usp=sharing'
   Data Science Society at Berkeley:
