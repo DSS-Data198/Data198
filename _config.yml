@@ -4,7 +4,7 @@ logo: assets/site_images/dsslogo.png
 author: Directors of Academic Development
 email: dss.data198@gmail.com
 theme: just-the-docs
-current_week: 5
+current_week: 6
 favicon: assets/site_images/favicon.ico
 #url: "https://dssdecal.org"
 baseurl: "/fa24"
@@ -38,6 +38,7 @@ links:
     lecture03: "https://docs.google.com/presentation/d/17wKBi6-kg8QnWb2ecXX7o3Pqs94Qnjw-emxIC4RwDec/edit?usp=sharing"
     lecture04: "https://docs.google.com/presentation/d/1x2JPtYYrJRha4F_jYQJeWWhwohKNidZMiFKQo5nqi9w/edit?usp=sharing"
     lecture05: "https://docs.google.com/presentation/d/1cT2F-u0tukJWCUcAZiGri2qhG3bT4SYJEItaWMSPYe4/edit?usp=sharing"
+    lecture06: "https://docs.google.com/presentation/d/1h4J_JaqVuz8H3fLKTsv_FHxMaS_NDcFMppCBK0KLPfc/edit?usp=sharing"
   demos: 
     demo01: "https://deepnote.com/workspace/joseph-zhai-4d2cff32-3181-4ae6-a47d-dc9f02262638/project/DSS-Acadev-Lecture-2-Duplicate-82001e9c-93b5-41ef-a966-40cb86c2e838/notebook/Notebook%201-f92f2b9db8e749958ae2ed633fcaf634"
     demo02: "https://hub.ovh2.mybinder.org/user/dss-data198-demos-n98zi3r7/doc/tree/data_cleaning/Notebook.ipynb"

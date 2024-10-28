@@ -1,10 +1,8 @@
 ---
-email: jakex@berkeley.edu
-name: Jake Xiang
-photo: staff/jake.png
-bio: Hello! I'm Jake, a second year Data Science Major from the Bay Area (San Mateo). 
+email: bahaalkhatib@berkeley.edu
+name: Baha Alkhatib
+photo: staff/baha.png
+bio: Hi! I'm Baha. I am a third year Data Science major from Palestine.
 role: presenter
-#hover-photo: staff_hovers/jake_hover.png
-linkedin: https://www.linkedin.com/in/jake-xiang/
-order: 7
+linkedin: https://www.linkedin.com/in/baha-alkhatib-684738277/
 ---
