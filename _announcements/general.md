@@ -10,4 +10,4 @@ date: 2024-10-28 #Year-Month-Date
 * Mini Vitamin 5 will be released at 7:00pm on 10/28 and will be due the **same day** at 11:59pm
 
 ## Quote of the week:
-* "Every model begins as a work in progress, refined through every loss and sharpened with every iteration—testing not just what it learned, but the resilience to keep learning" - <a href = "https://openai.com/" target = "_blank">ChatGPT</a>
+* "Every model begins as a work in progress, refined through every loss and sharpened with every iteration—testing not just what it learned, but the resilience to keep learning" - <a href = "https://openai.com/" target = "_blank">ChatGPT</a> XD
