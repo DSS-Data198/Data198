@@ -1,9 +1,8 @@
 ---
-email: hhong@berkeley.edu
-name: Henry Hong
-photo: staff/henry.jpg
-bio: Hey guys! I'm Henry! I'm a second year Data Science + Cognitive Science Major from Pleasanton. 
+email: waylandla@berkeley.edu
+name: Wayland La
+photo: staff/wayland.png
+bio: Whats up, Im Wayland La, a second year studying applied math but intending on switching to data science.
 role: presenter
-linkedin: https://www.linkedin.com/in/henry-hong-2b83a9280/
-hover-photo: staff_hovers/henry_hover.png
+linkedin: https://www.linkedin.com/in/waylandla
 ---

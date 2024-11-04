@@ -1,8 +1,8 @@
 ---
-email: katiezhang@berkeley.edu
-name: Katie Zhang
-photo: staff/katie.jpg
-bio: Hi! My name is Katie and I am currently a sophomore studying Data Science, and also from the Chicago suburbs.
-linkedin: https://www.linkedin.com/in/katie-h-zhang/
+email: cduong04@berkeley.edu
+name: Collin Duong
+photo: staff/collin.jpeg
+bio: Hi everyone! I’m Collin, a second year from the San Gabriel Valley region of SoCal, studying data science and applied math.
+linkedin: https://www.linkedin.com/in/collin-duong-a615b028a/
 role: presenter
 ---
