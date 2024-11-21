@@ -3,6 +3,7 @@ layout: page
 title: Pandas Reference
 description: >-
     Python Reference Guide
+nav_order: 4
 ---
 
 # Pandas Reference

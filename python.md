@@ -3,6 +3,7 @@ layout: page
 title: Python
 description: >-
     Python Reference Guide
+nav_order: 5
 ---
 
 # Python Reference

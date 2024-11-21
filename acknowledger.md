@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Acknowledgements
+title: Previous Directors
 description: Contributors to Academic Development over the years!
-nav_order: 4
+nav_order: 6
 ---
 
-# Acknowledgements 
+# Previous Directors of DATA 198: Introduction to Real World Data Science 
 Created by Brandon Lee Concepcion
 {: .no_toc .text-delta }
 
