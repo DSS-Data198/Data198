@@ -1,5 +1,5 @@
 ---
-name: Tanvee Desai
+name: 🐟 Tanvee Desai
 photo: /acknowledgers/tanvee.png
 role: instructor
 linkedin: https://www.linkedin.com/in/tanveedesai/
