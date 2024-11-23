@@ -101,24 +101,28 @@
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     const images = document.querySelectorAll('.staffer-image');
-  
+
     images.forEach(img => {
       const hoverImage = img.getAttribute('data-hover');
       if (hoverImage) {
+        // Preload the hover image by creating a new Image object
+        const preloadedImage = new Image();
+        preloadedImage.src = hoverImage;
+
         const originalImage = img.getAttribute('src');
-  
+
         img.addEventListener('mouseover', function() {
           console.log('Hovering over image, changing src to:', hoverImage);
           img.setAttribute('src', hoverImage);
         });
-  
+
         img.addEventListener('mouseout', function() {
           console.log('Mouse out, changing src back to:', originalImage);
           img.setAttribute('src', originalImage);
         });
       }
     });
-  });  
+  });
 </script>
 
 <!--LinkedIn Icons-->
