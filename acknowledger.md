@@ -21,11 +21,47 @@ Created by Brandon Lee Concepcion
 {% endfor %}
 </div>
 
-## Academic Development Directors
-{% assign lect = site.acknowledgers| where: 'role', 'instructor' %}
+
+{% assign instructors = site.acknowledgers | where: 'role', 'instructor' %}
 
 <div class="role flex">
-{% for acknowledger in lect %}
-{{ acknowledger }}
-{% endfor %}
+{% assign spring2024 = site.acknowledgers | where: 'pronouns', 'Spring 2024' %}
+  {% for acknowledger in spring2024 %}
+    {{ acknowledger }}
+  {% endfor %}
+{% assign fall23 = site.acknowledgers | where: 'pronouns', 'Fall 2023' %}
+  {% for acknowledger in fall23 %}
+    {{ acknowledger }}
+  {% endfor %}
+{% assign spring2023 = site.acknowledgers | where: 'pronouns', 'Spring 2023' %}
+  {% for acknowledger in spring2023 %}
+    {{ acknowledger }}
+  {% endfor %}
+{% assign fall22 = site.acknowledgers | where: 'pronouns', 'Fall 2022' %}
+  {% for acknowledger in fall22 %}
+    {{ acknowledger }}
+  {% endfor %}
+{% assign spring2022 = site.acknowledgers | where: 'pronouns', 'Spring 2022' %}
+  {% for acknowledger in spring2022 %}
+    {{ acknowledger }}
+  {% endfor %}
+{% assign fall21 = site.acknowledgers | where: 'pronouns', 'Fall 2021' %}
+  {% for acknowledger in fall21 %}
+    {{ acknowledger }}
+  {% endfor %}
+</div>
+
+<div class="role flex">
+{% assign sp21 = site.acknowledgers | where: 'pronouns', 'Spring 2021' %}
+  {% for acknowledger in sp21 %}
+    {{ acknowledger }}
+  {% endfor %}
+{% assign fa20 = site.acknowledgers | where: 'pronouns', 'Fall 2020' %}
+  {% for acknowledger in fa20 %}
+    {{ acknowledger }}
+  {% endfor %}
+{% assign sp20 = site.acknowledgers | where: 'pronouns', 'Spring 2020' %}
+  {% for acknowledger in sp20 %}
+    {{ acknowledger }}
+  {% endfor %}
 </div>
