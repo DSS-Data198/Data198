@@ -9,6 +9,8 @@ nav_order: 6
 Created by Brandon Lee Concepcion
 {: .no_toc .text-delta }
 
+Ever wondered who the previous Directors of Academic Development were? Here they are! 
+
 <!-->
 ## Website Contributors
 {% assign web = site.acknowledgers| where: 'role', 'website' %}
