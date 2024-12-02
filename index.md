@@ -15,6 +15,7 @@ permalink: index.html
 
 
 ## Instructors For This Week
+<!--
 {% assign instructors = site.staffers | where: 'role', 'presenter' %}
 
 <div class="role flex">
@@ -22,6 +23,7 @@ permalink: index.html
   {{ staffer }}
   {% endfor %}
 </div>
+-->
 
 
 {% assign announcements = site.announcements | reverse %}
