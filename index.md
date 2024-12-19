@@ -14,8 +14,11 @@ permalink: index.html
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
 
-## Instructors For This Week
+
 <!--
+
+## Instructors For This Week
+
 {% assign instructors = site.staffers | where: 'role', 'presenter' %}
 
 <div class="role flex">
